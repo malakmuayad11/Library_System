@@ -1,0 +1,1946 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DellUser\\OneDrive\\OneDrive - University of the People\\Desktop\\Course 20\\Library\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{67C49563-FB11-4582-985B-9875CA8F79FD}|Library.csproj|c:\\users\\delluser\\onedrive\\onedrive - university of the people\\desktop\\course 20\\library\\books\\controls\\ctrlbookinfowithfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{67C49563-FB11-4582-985B-9875CA8F79FD}|Library.csproj|solutionrelative:books\\controls\\ctrlbookinfowithfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67C49563-FB11-4582-985B-9875CA8F79FD}|Library.csproj|C:\\Users\\DellUser\\OneDrive\\OneDrive - University of the People\\Desktop\\Course 20\\Library\\books\\controls\\ctrlbookinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{67C49563-FB11-4582-985B-9875CA8F79FD}|Library.csproj|solutionrelative:books\\controls\\ctrlbookinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67C49563-FB11-4582-985B-9875CA8F79FD}|Library.csproj|C:\\Users\\DellUser\\OneDrive\\OneDrive - University of the People\\Desktop\\Course 20\\Library\\courses\\frmlistcourses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{67C49563-FB11-4582-985B-9875CA8F79FD}|Library.csproj|solutionrelative:courses\\frmlistcourses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67C49563-FB11-4582-985B-9875CA8F79FD}|Library.csproj|C:\\Users\\DellUser\\OneDrive\\OneDrive - University of the People\\Desktop\\Course 20\\Library\\courses\\ctrlcourseinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{67C49563-FB11-4582-985B-9875CA8F79FD}|Library.csproj|solutionrelative:courses\\ctrlcourseinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67C49563-FB11-4582-985B-9875CA8F79FD}|Library.csproj|C:\\Users\\DellUser\\OneDrive\\OneDrive - University of the People\\Desktop\\Course 20\\Library\\loans\\frmlistloans.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{67C49563-FB11-4582-985B-9875CA8F79FD}|Library.csproj|solutionrelative:loans\\frmlistloans.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67C49563-FB11-4582-985B-9875CA8F79FD}|Library.csproj|C:\\Users\\DellUser\\OneDrive\\OneDrive - University of the People\\Desktop\\Course 20\\Library\\courses\\frmenrollmemberincourse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{67C49563-FB11-4582-985B-9875CA8F79FD}|Library.csproj|solutionrelative:courses\\frmenrollmemberincourse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67C49563-FB11-4582-985B-9875CA8F79FD}|Library.csproj|C:\\Users\\DellUser\\OneDrive\\OneDrive - University of the People\\Desktop\\Course 20\\Library\\courses\\frmenrolledmembers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{67C49563-FB11-4582-985B-9875CA8F79FD}|Library.csproj|solutionrelative:courses\\frmenrolledmembers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67C49563-FB11-4582-985B-9875CA8F79FD}|Library.csproj|C:\\Users\\DellUser\\OneDrive\\OneDrive - University of the People\\Desktop\\Course 20\\Library\\courses\\frmcoursedetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{67C49563-FB11-4582-985B-9875CA8F79FD}|Library.csproj|solutionrelative:courses\\frmcoursedetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67C49563-FB11-4582-985B-9875CA8F79FD}|Library.csproj|C:\\Users\\DellUser\\OneDrive\\OneDrive - University of the People\\Desktop\\Course 20\\Library\\courses\\frmaddupdatecourse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{67C49563-FB11-4582-985B-9875CA8F79FD}|Library.csproj|solutionrelative:courses\\frmaddupdatecourse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67C49563-FB11-4582-985B-9875CA8F79FD}|Library.csproj|C:\\Users\\DellUser\\OneDrive\\OneDrive - University of the People\\Desktop\\Course 20\\Library\\members\\frmlistmembers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67C49563-FB11-4582-985B-9875CA8F79FD}|Library.csproj|solutionrelative:members\\frmlistmembers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67C49563-FB11-4582-985B-9875CA8F79FD}|Library.csproj|C:\\Users\\DellUser\\OneDrive\\OneDrive - University of the People\\Desktop\\Course 20\\Library\\courses\\ctrlcourseinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67C49563-FB11-4582-985B-9875CA8F79FD}|Library.csproj|solutionrelative:courses\\ctrlcourseinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67C49563-FB11-4582-985B-9875CA8F79FD}|Library.csproj|C:\\Users\\DellUser\\OneDrive\\OneDrive - University of the People\\Desktop\\Course 20\\Library\\members\\controls\\ctrlmemberinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{67C49563-FB11-4582-985B-9875CA8F79FD}|Library.csproj|solutionrelative:members\\controls\\ctrlmemberinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67C49563-FB11-4582-985B-9875CA8F79FD}|Library.csproj|C:\\Users\\DellUser\\OneDrive\\OneDrive - University of the People\\Desktop\\Course 20\\Library\\payments\\frmlistpayments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{67C49563-FB11-4582-985B-9875CA8F79FD}|Library.csproj|solutionrelative:payments\\frmlistpayments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67C49563-FB11-4582-985B-9875CA8F79FD}|Library.csproj|C:\\Users\\DellUser\\OneDrive\\OneDrive - University of the People\\Desktop\\Course 20\\Library\\members\\frmlistmembershiptypes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{67C49563-FB11-4582-985B-9875CA8F79FD}|Library.csproj|solutionrelative:members\\frmlistmembershiptypes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67C49563-FB11-4582-985B-9875CA8F79FD}|Library.csproj|C:\\Users\\DellUser\\OneDrive\\OneDrive - University of the People\\Desktop\\Course 20\\Library\\loans\\frmaddloan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{67C49563-FB11-4582-985B-9875CA8F79FD}|Library.csproj|solutionrelative:loans\\frmaddloan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67C49563-FB11-4582-985B-9875CA8F79FD}|Library.csproj|C:\\Users\\DellUser\\OneDrive\\OneDrive - University of the People\\Desktop\\Course 20\\Library\\members\\frmmemberinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{67C49563-FB11-4582-985B-9875CA8F79FD}|Library.csproj|solutionrelative:members\\frmmemberinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67C49563-FB11-4582-985B-9875CA8F79FD}|Library.csproj|C:\\Users\\DellUser\\OneDrive\\OneDrive - University of the People\\Desktop\\Course 20\\Library\\members\\frmlistmembers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{67C49563-FB11-4582-985B-9875CA8F79FD}|Library.csproj|solutionrelative:members\\frmlistmembers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67C49563-FB11-4582-985B-9875CA8F79FD}|Library.csproj|C:\\Users\\DellUser\\OneDrive\\OneDrive - University of the People\\Desktop\\Course 20\\Library\\members\\frmaddupdatemember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{67C49563-FB11-4582-985B-9875CA8F79FD}|Library.csproj|solutionrelative:members\\frmaddupdatemember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67C49563-FB11-4582-985B-9875CA8F79FD}|Library.csproj|C:\\Users\\DellUser\\OneDrive\\OneDrive - University of the People\\Desktop\\Course 20\\Library\\members\\frmaddupdatemember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67C49563-FB11-4582-985B-9875CA8F79FD}|Library.csproj|solutionrelative:members\\frmaddupdatemember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67C49563-FB11-4582-985B-9875CA8F79FD}|Library.csproj|C:\\Users\\DellUser\\OneDrive\\OneDrive - University of the People\\Desktop\\Course 20\\Library\\members\\controls\\ctrlmemberinfowithfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{67C49563-FB11-4582-985B-9875CA8F79FD}|Library.csproj|solutionrelative:members\\controls\\ctrlmemberinfowithfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67C49563-FB11-4582-985B-9875CA8F79FD}|Library.csproj|C:\\Users\\DellUser\\OneDrive\\OneDrive - University of the People\\Desktop\\Course 20\\Library\\users\\frmlistusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{67C49563-FB11-4582-985B-9875CA8F79FD}|Library.csproj|solutionrelative:users\\frmlistusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67C49563-FB11-4582-985B-9875CA8F79FD}|Library.csproj|C:\\Users\\DellUser\\OneDrive\\OneDrive - University of the People\\Desktop\\Course 20\\Library\\users\\frmuserinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{67C49563-FB11-4582-985B-9875CA8F79FD}|Library.csproj|solutionrelative:users\\frmuserinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67C49563-FB11-4582-985B-9875CA8F79FD}|Library.csproj|C:\\Users\\DellUser\\OneDrive\\OneDrive - University of the People\\Desktop\\Course 20\\Library\\users\\frmchangepassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{67C49563-FB11-4582-985B-9875CA8F79FD}|Library.csproj|solutionrelative:users\\frmchangepassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67C49563-FB11-4582-985B-9875CA8F79FD}|Library.csproj|C:\\Users\\DellUser\\OneDrive\\OneDrive - University of the People\\Desktop\\Course 20\\Library\\users\\frmadduser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{67C49563-FB11-4582-985B-9875CA8F79FD}|Library.csproj|solutionrelative:users\\frmadduser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67C49563-FB11-4582-985B-9875CA8F79FD}|Library.csproj|C:\\Users\\DellUser\\OneDrive\\OneDrive - University of the People\\Desktop\\Course 20\\Library\\users\\ctrluserinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{67C49563-FB11-4582-985B-9875CA8F79FD}|Library.csproj|solutionrelative:users\\ctrluserinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67C49563-FB11-4582-985B-9875CA8F79FD}|Library.csproj|C:\\Users\\DellUser\\OneDrive\\OneDrive - University of the People\\Desktop\\Course 20\\Library\\users\\ctrluserinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67C49563-FB11-4582-985B-9875CA8F79FD}|Library.csproj|solutionrelative:users\\ctrluserinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67C49563-FB11-4582-985B-9875CA8F79FD}|Library.csproj|C:\\Users\\DellUser\\OneDrive\\OneDrive - University of the People\\Desktop\\Course 20\\Library\\frmmainscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{67C49563-FB11-4582-985B-9875CA8F79FD}|Library.csproj|solutionrelative:frmmainscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67C49563-FB11-4582-985B-9875CA8F79FD}|Library.csproj|C:\\Users\\DellUser\\OneDrive\\OneDrive - University of the People\\Desktop\\Course 20\\Library\\frmmainscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67C49563-FB11-4582-985B-9875CA8F79FD}|Library.csproj|solutionrelative:frmmainscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67C49563-FB11-4582-985B-9875CA8F79FD}|Library.csproj|C:\\Users\\DellUser\\OneDrive\\OneDrive - University of the People\\Desktop\\Course 20\\Library\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{67C49563-FB11-4582-985B-9875CA8F79FD}|Library.csproj|solutionrelative:frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67C49563-FB11-4582-985B-9875CA8F79FD}|Library.csproj|C:\\Users\\DellUser\\OneDrive\\OneDrive - University of the People\\Desktop\\Course 20\\Library\\frmlogin.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67C49563-FB11-4582-985B-9875CA8F79FD}|Library.csproj|solutionrelative:frmlogin.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67C49563-FB11-4582-985B-9875CA8F79FD}|Library.csproj|C:\\Users\\DellUser\\OneDrive\\OneDrive - University of the People\\Desktop\\Course 20\\Library\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67C49563-FB11-4582-985B-9875CA8F79FD}|Library.csproj|solutionrelative:frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67C49563-FB11-4582-985B-9875CA8F79FD}|Library.csproj|C:\\Users\\DellUser\\OneDrive\\OneDrive - University of the People\\Desktop\\Course 20\\Library\\books\\controls\\ctrlbookinfowithfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67C49563-FB11-4582-985B-9875CA8F79FD}|Library.csproj|solutionrelative:books\\controls\\ctrlbookinfowithfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67C49563-FB11-4582-985B-9875CA8F79FD}|Library.csproj|C:\\Users\\DellUser\\OneDrive\\OneDrive - University of the People\\Desktop\\Course 20\\Library\\books\\frmshowbookinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67C49563-FB11-4582-985B-9875CA8F79FD}|Library.csproj|solutionrelative:books\\frmshowbookinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67C49563-FB11-4582-985B-9875CA8F79FD}|Library.csproj|C:\\Users\\DellUser\\OneDrive\\OneDrive - University of the People\\Desktop\\Course 20\\Library\\books\\frmlistbooks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67C49563-FB11-4582-985B-9875CA8F79FD}|Library.csproj|solutionrelative:books\\frmlistbooks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67C49563-FB11-4582-985B-9875CA8F79FD}|Library.csproj|C:\\Users\\DellUser\\OneDrive\\OneDrive - University of the People\\Desktop\\Course 20\\Library\\books\\frmaddupdatebook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67C49563-FB11-4582-985B-9875CA8F79FD}|Library.csproj|solutionrelative:books\\frmaddupdatebook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67C49563-FB11-4582-985B-9875CA8F79FD}|Library.csproj|C:\\Users\\DellUser\\OneDrive\\OneDrive - University of the People\\Desktop\\Course 20\\Library\\books\\controls\\ctrlbookinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67C49563-FB11-4582-985B-9875CA8F79FD}|Library.csproj|solutionrelative:books\\controls\\ctrlbookinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67C49563-FB11-4582-985B-9875CA8F79FD}|Library.csproj|C:\\Users\\DellUser\\OneDrive\\OneDrive - University of the People\\Desktop\\Course 20\\Library\\users\\frmadduser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67C49563-FB11-4582-985B-9875CA8F79FD}|Library.csproj|solutionrelative:users\\frmadduser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D031FA95-47BC-4716-9EC2-3D66821B728F}|..\\Library_Business\\Library_Business.csproj|c:\\users\\delluser\\onedrive\\onedrive - university of the people\\desktop\\course 20\\library_business\\clsuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EFB403D-28B7-467C-8FA5-A31273369912}|..\\Library_Data\\Library_Data.csproj|c:\\users\\delluser\\onedrive\\onedrive - university of the people\\desktop\\course 20\\library_data\\clsuserdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D031FA95-47BC-4716-9EC2-3D66821B728F}|..\\Library_Business\\Library_Business.csproj|c:\\users\\delluser\\onedrive\\onedrive - university of the people\\desktop\\course 20\\library_business\\clsutil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67C49563-FB11-4582-985B-9875CA8F79FD}|Library.csproj|C:\\Users\\DellUser\\OneDrive\\OneDrive - University of the People\\Desktop\\Course 20\\Library\\users\\ctrluserinfo.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67C49563-FB11-4582-985B-9875CA8F79FD}|Library.csproj|solutionrelative:users\\ctrluserinfo.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D031FA95-47BC-4716-9EC2-3D66821B728F}|..\\Library_Business\\Library_Business.csproj|c:\\users\\delluser\\onedrive\\onedrive - university of the people\\desktop\\course 20\\library_business\\clsauthor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D031FA95-47BC-4716-9EC2-3D66821B728F}|..\\Library_Business\\Library_Business.csproj|c:\\users\\delluser\\onedrive\\onedrive - university of the people\\desktop\\course 20\\library_business\\clsbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D031FA95-47BC-4716-9EC2-3D66821B728F}|..\\Library_Business\\Library_Business.csproj|c:\\users\\delluser\\onedrive\\onedrive - university of the people\\desktop\\course 20\\library_business\\clscourse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D031FA95-47BC-4716-9EC2-3D66821B728F}|..\\Library_Business\\Library_Business.csproj|c:\\users\\delluser\\onedrive\\onedrive - university of the people\\desktop\\course 20\\library_business\\clsfine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D031FA95-47BC-4716-9EC2-3D66821B728F}|..\\Library_Business\\Library_Business.csproj|c:\\users\\delluser\\onedrive\\onedrive - university of the people\\desktop\\course 20\\library_business\\clsmember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D031FA95-47BC-4716-9EC2-3D66821B728F}|..\\Library_Business\\Library_Business.csproj|c:\\users\\delluser\\onedrive\\onedrive - university of the people\\desktop\\course 20\\library_business\\clsloan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D031FA95-47BC-4716-9EC2-3D66821B728F}|..\\Library_Business\\Library_Business.csproj|c:\\users\\delluser\\onedrive\\onedrive - university of the people\\desktop\\course 20\\library_business\\clsmembershiptype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EFB403D-28B7-467C-8FA5-A31273369912}|..\\Library_Data\\Library_Data.csproj|c:\\users\\delluser\\onedrive\\onedrive - university of the people\\desktop\\course 20\\library_data\\clssettingsdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EFB403D-28B7-467C-8FA5-A31273369912}|..\\Library_Data\\Library_Data.csproj|c:\\users\\delluser\\onedrive\\onedrive - university of the people\\desktop\\course 20\\library_data\\clsfinedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EFB403D-28B7-467C-8FA5-A31273369912}|..\\Library_Data\\Library_Data.csproj|c:\\users\\delluser\\onedrive\\onedrive - university of the people\\desktop\\course 20\\library_data\\clsmemberdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EFB403D-28B7-467C-8FA5-A31273369912}|..\\Library_Data\\Library_Data.csproj|c:\\users\\delluser\\onedrive\\onedrive - university of the people\\desktop\\course 20\\library_data\\clsauthordata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67C49563-FB11-4582-985B-9875CA8F79FD}|Library.csproj|C:\\Users\\DellUser\\OneDrive\\OneDrive - University of the People\\Desktop\\Course 20\\Library\\courses\\frmlistcourses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67C49563-FB11-4582-985B-9875CA8F79FD}|Library.csproj|solutionrelative:courses\\frmlistcourses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EFB403D-28B7-467C-8FA5-A31273369912}|..\\Library_Data\\Library_Data.csproj|c:\\users\\delluser\\onedrive\\onedrive - university of the people\\desktop\\course 20\\library_data\\clsbookdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EFB403D-28B7-467C-8FA5-A31273369912}|..\\Library_Data\\Library_Data.csproj|c:\\users\\delluser\\onedrive\\onedrive - university of the people\\desktop\\course 20\\library_data\\clscoursedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EFB403D-28B7-467C-8FA5-A31273369912}|..\\Library_Data\\Library_Data.csproj|c:\\users\\delluser\\onedrive\\onedrive - university of the people\\desktop\\course 20\\library_data\\clsloandata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67C49563-FB11-4582-985B-9875CA8F79FD}|Library.csproj|C:\\Users\\DellUser\\OneDrive\\OneDrive - University of the People\\Desktop\\Course 20\\Library\\loans\\frmlistloans.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67C49563-FB11-4582-985B-9875CA8F79FD}|Library.csproj|solutionrelative:loans\\frmlistloans.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EFB403D-28B7-467C-8FA5-A31273369912}|..\\Library_Data\\Library_Data.csproj|c:\\users\\delluser\\onedrive\\onedrive - university of the people\\desktop\\course 20\\library_data\\clslogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67C49563-FB11-4582-985B-9875CA8F79FD}|Library.csproj|C:\\Users\\DellUser\\OneDrive\\OneDrive - University of the People\\Desktop\\Course 20\\Library\\users\\frmlistusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67C49563-FB11-4582-985B-9875CA8F79FD}|Library.csproj|solutionrelative:users\\frmlistusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EFB403D-28B7-467C-8FA5-A31273369912}|..\\Library_Data\\Library_Data.csproj|c:\\users\\delluser\\onedrive\\onedrive - university of the people\\desktop\\course 20\\library_data\\clsmembershiptypedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67C49563-FB11-4582-985B-9875CA8F79FD}|Library.csproj|C:\\Users\\DellUser\\OneDrive\\OneDrive - University of the People\\Desktop\\Course 20\\Library\\payments\\frmlistpayments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67C49563-FB11-4582-985B-9875CA8F79FD}|Library.csproj|solutionrelative:payments\\frmlistpayments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67C49563-FB11-4582-985B-9875CA8F79FD}|Library.csproj|C:\\Users\\DellUser\\OneDrive\\OneDrive - University of the People\\Desktop\\Course 20\\Library\\members\\frmlistmembershiptypes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67C49563-FB11-4582-985B-9875CA8F79FD}|Library.csproj|solutionrelative:members\\frmlistmembershiptypes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67C49563-FB11-4582-985B-9875CA8F79FD}|Library.csproj|C:\\Users\\DellUser\\OneDrive\\OneDrive - University of the People\\Desktop\\Course 20\\Library\\loans\\frmaddloan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67C49563-FB11-4582-985B-9875CA8F79FD}|Library.csproj|solutionrelative:loans\\frmaddloan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67C49563-FB11-4582-985B-9875CA8F79FD}|Library.csproj|C:\\Users\\DellUser\\OneDrive\\OneDrive - University of the People\\Desktop\\Course 20\\Library\\courses\\frmaddupdatecourse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67C49563-FB11-4582-985B-9875CA8F79FD}|Library.csproj|solutionrelative:courses\\frmaddupdatecourse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67C49563-FB11-4582-985B-9875CA8F79FD}|Library.csproj|C:\\Users\\DellUser\\OneDrive\\OneDrive - University of the People\\Desktop\\Course 20\\Library\\courses\\frmenrolledmembers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67C49563-FB11-4582-985B-9875CA8F79FD}|Library.csproj|solutionrelative:courses\\frmenrolledmembers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67C49563-FB11-4582-985B-9875CA8F79FD}|Library.csproj|C:\\Users\\DellUser\\OneDrive\\OneDrive - University of the People\\Desktop\\Course 20\\Library\\books\\frmlistbooks.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67C49563-FB11-4582-985B-9875CA8F79FD}|Library.csproj|solutionrelative:books\\frmlistbooks.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67C49563-FB11-4582-985B-9875CA8F79FD}|Library.csproj|C:\\Users\\DellUser\\OneDrive\\OneDrive - University of the People\\Desktop\\Course 20\\Library\\books\\frmlistbooks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{67C49563-FB11-4582-985B-9875CA8F79FD}|Library.csproj|solutionrelative:books\\frmlistbooks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67C49563-FB11-4582-985B-9875CA8F79FD}|Library.csproj|C:\\Users\\DellUser\\OneDrive\\OneDrive - University of the People\\Desktop\\Course 20\\Library\\courses\\frmaddupdatecourse.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67C49563-FB11-4582-985B-9875CA8F79FD}|Library.csproj|solutionrelative:courses\\frmaddupdatecourse.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\DellUser\\Desktop\\Course 20\\Library_Data\\clsCourseData.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67C49563-FB11-4582-985B-9875CA8F79FD}|Library.csproj|C:\\Users\\DellUser\\OneDrive\\OneDrive - University of the People\\Desktop\\Course 20\\Library\\courses\\frmenrollmemberincourse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67C49563-FB11-4582-985B-9875CA8F79FD}|Library.csproj|solutionrelative:courses\\frmenrollmemberincourse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67C49563-FB11-4582-985B-9875CA8F79FD}|Library.csproj|C:\\Users\\DellUser\\OneDrive\\OneDrive - University of the People\\Desktop\\Course 20\\Library\\courses\\frmcoursedetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67C49563-FB11-4582-985B-9875CA8F79FD}|Library.csproj|solutionrelative:courses\\frmcoursedetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67C49563-FB11-4582-985B-9875CA8F79FD}|Library.csproj|C:\\Users\\DellUser\\OneDrive\\OneDrive - University of the People\\Desktop\\Course 20\\Library\\loans\\frmaddloan.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67C49563-FB11-4582-985B-9875CA8F79FD}|Library.csproj|solutionrelative:loans\\frmaddloan.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67C49563-FB11-4582-985B-9875CA8F79FD}|Library.csproj|C:\\Users\\DellUser\\OneDrive\\OneDrive - University of the People\\Desktop\\Course 20\\Library\\courses\\frmenrollmemberincourse.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67C49563-FB11-4582-985B-9875CA8F79FD}|Library.csproj|solutionrelative:courses\\frmenrollmemberincourse.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67C49563-FB11-4582-985B-9875CA8F79FD}|Library.csproj|C:\\Users\\DellUser\\OneDrive\\OneDrive - University of the People\\Desktop\\Course 20\\Library\\books\\frmaddupdatebook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{67C49563-FB11-4582-985B-9875CA8F79FD}|Library.csproj|solutionrelative:books\\frmaddupdatebook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67C49563-FB11-4582-985B-9875CA8F79FD}|Library.csproj|C:\\Users\\DellUser\\OneDrive\\OneDrive - University of the People\\Desktop\\Course 20\\Library\\global classes\\clsutil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67C49563-FB11-4582-985B-9875CA8F79FD}|Library.csproj|solutionrelative:global classes\\clsutil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\muaid\\OneDrive\\Desktop\\Programming projects\\Course 20\\Library_Business\\clsLoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\muaid\\OneDrive\\Desktop\\Programming projects\\Course 20\\Library_Data\\clsLoanData.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\muaid\\OneDrive\\Desktop\\Programming projects\\Course 20\\Library_Data\\clsFineData.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67C49563-FB11-4582-985B-9875CA8F79FD}|Library.csproj|C:\\Users\\DellUser\\OneDrive\\OneDrive - University of the People\\Desktop\\Course 20\\Library\\members\\frmmemberinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67C49563-FB11-4582-985B-9875CA8F79FD}|Library.csproj|solutionrelative:members\\frmmemberinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67C49563-FB11-4582-985B-9875CA8F79FD}|Library.csproj|C:\\Users\\DellUser\\OneDrive\\OneDrive - University of the People\\Desktop\\Course 20\\Library\\global classes\\clsformat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67C49563-FB11-4582-985B-9875CA8F79FD}|Library.csproj|solutionrelative:global classes\\clsformat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67C49563-FB11-4582-985B-9875CA8F79FD}|Library.csproj|C:\\Users\\DellUser\\OneDrive\\OneDrive - University of the People\\Desktop\\Course 20\\Library\\books\\frmshowbookinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{67C49563-FB11-4582-985B-9875CA8F79FD}|Library.csproj|solutionrelative:books\\frmshowbookinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67C49563-FB11-4582-985B-9875CA8F79FD}|Library.csproj|C:\\Users\\DellUser\\OneDrive\\OneDrive - University of the People\\Desktop\\Course 20\\Library\\global classes\\clsglobal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67C49563-FB11-4582-985B-9875CA8F79FD}|Library.csproj|solutionrelative:global classes\\clsglobal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67C49563-FB11-4582-985B-9875CA8F79FD}|Library.csproj|C:\\Users\\DellUser\\OneDrive\\OneDrive - University of the People\\Desktop\\Course 20\\Library\\users\\frmchangepassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67C49563-FB11-4582-985B-9875CA8F79FD}|Library.csproj|solutionrelative:users\\frmchangepassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67C49563-FB11-4582-985B-9875CA8F79FD}|Library.csproj|C:\\Users\\DellUser\\OneDrive\\OneDrive - University of the People\\Desktop\\Course 20\\Library\\users\\frmlistusers.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67C49563-FB11-4582-985B-9875CA8F79FD}|Library.csproj|solutionrelative:users\\frmlistusers.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67C49563-FB11-4582-985B-9875CA8F79FD}|Library.csproj|C:\\Users\\DellUser\\OneDrive\\OneDrive - University of the People\\Desktop\\Course 20\\Library\\users\\frmuserinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67C49563-FB11-4582-985B-9875CA8F79FD}|Library.csproj|solutionrelative:users\\frmuserinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\muaid\\OneDrive\\Desktop\\Programming projects\\Course 19\\DVLD-Sol\\Global Classes\\clsValidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\muaid\\OneDrive\\Desktop\\Programming projects\\Course 20\\Library\\frmAddUpdateMember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\muaid\\OneDrive\\Desktop\\Programming projects\\Course 20\\Library\\frmaddupdatemember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\muaid\\OneDrive\\Desktop\\Programming projects\\Course 20\\Library\\clsUtil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\muaid\\OneDrive\\Desktop\\Programming projects\\Course 20\\Library\\frmListMembershipTypes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\muaid\\OneDrive\\Desktop\\Programming projects\\Course 20\\Library\\frmlistmembershiptypes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\muaid\\OneDrive\\Desktop\\Programming projects\\Course 20\\Library_Business\\clsFine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\muaid\\OneDrive\\Desktop\\Programming projects\\Course 20\\Library_Data\\clsMemberData.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\muaid\\OneDrive\\Desktop\\Programming projects\\Course 20\\Library_Business\\clsMember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\muaid\\OneDrive\\Desktop\\Programming projects\\Course 20\\Library_Data\\clsLogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\muaid\\OneDrive\\Desktop\\Programming projects\\Course 20\\Library_Business\\clsAuthor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\muaid\\OneDrive\\Desktop\\Programming projects\\Course 20\\Library_Data\\clsBookData.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\muaid\\OneDrive\\Desktop\\Programming projects\\Course 20\\Library_Business\\clsUser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\muaid\\OneDrive\\Desktop\\Programming projects\\Course 20\\Library_Business\\clsBook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\muaid\\OneDrive\\Desktop\\Programming projects\\Course 20\\Library_Data\\clsAuthorData.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\muaid\\OneDrive\\Desktop\\Programming projects\\Course 20\\Library_Business\\clsUtil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\muaid\\OneDrive\\Desktop\\Programming projects\\Course 20\\Library_Data\\clsUserData.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\muaid\\OneDrive\\Desktop\\Programming projects\\Course 20\\Library_Data\\clsMembershipTypeData.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\muaid\\OneDrive\\Desktop\\Programming projects\\Course 20\\Library_Business\\clsMembershipType.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\muaid\\OneDrive\\Desktop\\Programming projects\\Course 20\\Library_Data\\clsSettingsData.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\DellUser\\Desktop\\Course 20\\Library_Business\\clsMember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\DellUser\\Desktop\\Course 20\\Library_Data\\clsMemberData.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\DellUser\\Desktop\\Course 20\\Library_Business\\clsCourse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\DellUser\\Desktop\\Course 20\\Library_Data\\clsLogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\DellUser\\Desktop\\Course 20\\Library_Data\\clsUserData.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\DellUser\\Desktop\\Course 20\\Library\\Courses\\frmAddCourse.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\DellUser\\Desktop\\Course 20\\Library_Data\\clsSettingsData.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\DellUser\\Desktop\\Course 20\\Library_Data\\clsFineData.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\DellUser\\Desktop\\Course 20\\Library_Business\\clsUtil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\DellUser\\Desktop\\Course 20\\Library_Data\\clsBookData.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\DellUser\\Desktop\\Course 20\\Library_Business\\clsFine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\DellUser\\Desktop\\Course 20\\Library_Business\\clsUser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\DellUser\\Desktop\\Course 20\\Library_Business\\clsMembershipType.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\DellUser\\OneDrive\\OneDrive - University of the People\\Desktop\\Course 20\\Library\\Members\\ctrlMemberInfoWithFilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Members\\ctrlMemberInfoWithFilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\DellUser\\OneDrive\\OneDrive - University of the People\\Desktop\\Course 20\\Library\\members\\ctrlmemberinfowithfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:members\\ctrlmemberinfowithfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\DellUser\\OneDrive\\OneDrive - University of the People\\Desktop\\Course 20\\Library\\books\\ctrlbookinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:books\\ctrlbookinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\DellUser\\OneDrive\\OneDrive - University of the People\\Desktop\\Course 20\\Library\\Members\\ctrlMemberInfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Members\\ctrlMemberInfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\DellUser\\OneDrive\\OneDrive - University of the People\\Desktop\\Course 20\\Library\\members\\ctrlmemberinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:members\\ctrlmemberinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\DellUser\\OneDrive\\OneDrive - University of the People\\Desktop\\Course 20\\Library\\Books\\ctrlBookInfoWithFilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Books\\ctrlBookInfoWithFilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\DellUser\\OneDrive\\OneDrive - University of the People\\Desktop\\Course 20\\Library\\books\\ctrlbookinfowithfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:books\\ctrlbookinfowithfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\DellUser\\OneDrive\\OneDrive - University of the People\\Desktop\\Course 20\\Library\\Books\\ctrlBookInfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Books\\ctrlBookInfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\DellUser\\OneDrive\\OneDrive - University of the People\\Desktop\\Course 20\\Library\\Books\\ctrlBookInfo.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Books\\ctrlBookInfo.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "frmListCourses.cs",
+              "DocumentMoniker": "C:\\Users\\DellUser\\OneDrive\\OneDrive - University of the People\\Desktop\\Course 20\\Library\\Courses\\frmListCourses.cs",
+              "RelativeDocumentMoniker": "Courses\\frmListCourses.cs",
+              "ToolTip": "C:\\Users\\DellUser\\OneDrive\\OneDrive - University of the People\\Desktop\\Course 20\\Library\\Courses\\frmListCourses.cs",
+              "RelativeToolTip": "Courses\\frmListCourses.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAA3wFEAAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T13:19:12.674Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ctrlBookInfoWithFilter.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\DellUser\\OneDrive\\OneDrive - University of the People\\Desktop\\Course 20\\Library\\Books\\Controls\\ctrlBookInfoWithFilter.cs",
+              "RelativeDocumentMoniker": "Books\\Controls\\ctrlBookInfoWithFilter.cs",
+              "ToolTip": "C:\\Users\\DellUser\\OneDrive\\OneDrive - University of the People\\Desktop\\Course 20\\Library\\Books\\Controls\\ctrlBookInfoWithFilter.cs [Design]",
+              "RelativeToolTip": "Books\\Controls\\ctrlBookInfoWithFilter.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T12:10:53.254Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ctrlBookInfo.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\DellUser\\OneDrive\\OneDrive - University of the People\\Desktop\\Course 20\\Library\\Books\\Controls\\ctrlBookInfo.cs",
+              "RelativeDocumentMoniker": "Books\\Controls\\ctrlBookInfo.cs",
+              "ToolTip": "C:\\Users\\DellUser\\OneDrive\\OneDrive - University of the People\\Desktop\\Course 20\\Library\\Books\\Controls\\ctrlBookInfo.cs [Design]",
+              "RelativeToolTip": "Books\\Controls\\ctrlBookInfo.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T12:08:48.601Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "frmEnrolledMembers.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\DellUser\\OneDrive\\OneDrive - University of the People\\Desktop\\Course 20\\Library\\Courses\\frmEnrolledMembers.cs",
+              "RelativeDocumentMoniker": "Courses\\frmEnrolledMembers.cs",
+              "ToolTip": "C:\\Users\\DellUser\\OneDrive\\OneDrive - University of the People\\Desktop\\Course 20\\Library\\Courses\\frmEnrolledMembers.cs [Design]",
+              "RelativeToolTip": "Courses\\frmEnrolledMembers.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T15:23:31.227Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "frmEnrollMemberInCourse.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\DellUser\\OneDrive\\OneDrive - University of the People\\Desktop\\Course 20\\Library\\Courses\\frmEnrollMemberInCourse.cs",
+              "RelativeDocumentMoniker": "Courses\\frmEnrollMemberInCourse.cs",
+              "ToolTip": "C:\\Users\\DellUser\\OneDrive\\OneDrive - University of the People\\Desktop\\Course 20\\Library\\Courses\\frmEnrollMemberInCourse.cs [Design]",
+              "RelativeToolTip": "Courses\\frmEnrollMemberInCourse.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T10:16:53.772Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmListCourses.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\DellUser\\OneDrive\\OneDrive - University of the People\\Desktop\\Course 20\\Library\\Courses\\frmListCourses.cs",
+              "RelativeDocumentMoniker": "Courses\\frmListCourses.cs",
+              "ToolTip": "C:\\Users\\DellUser\\OneDrive\\OneDrive - University of the People\\Desktop\\Course 20\\Library\\Courses\\frmListCourses.cs [Design]",
+              "RelativeToolTip": "Courses\\frmListCourses.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T11:26:29.441Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ctrlCourseInfo.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\DellUser\\OneDrive\\OneDrive - University of the People\\Desktop\\Course 20\\Library\\Courses\\ctrlCourseInfo.cs",
+              "RelativeDocumentMoniker": "Courses\\ctrlCourseInfo.cs",
+              "ToolTip": "C:\\Users\\DellUser\\OneDrive\\OneDrive - University of the People\\Desktop\\Course 20\\Library\\Courses\\ctrlCourseInfo.cs [Design]",
+              "RelativeToolTip": "Courses\\ctrlCourseInfo.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T10:17:59.63Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "frmCourseDetails.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\DellUser\\OneDrive\\OneDrive - University of the People\\Desktop\\Course 20\\Library\\Courses\\frmCourseDetails.cs",
+              "RelativeDocumentMoniker": "Courses\\frmCourseDetails.cs",
+              "ToolTip": "C:\\Users\\DellUser\\OneDrive\\OneDrive - University of the People\\Desktop\\Course 20\\Library\\Courses\\frmCourseDetails.cs [Design]",
+              "RelativeToolTip": "Courses\\frmCourseDetails.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T15:08:15.687Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "frmListLoans.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\DellUser\\OneDrive\\OneDrive - University of the People\\Desktop\\Course 20\\Library\\Loans\\frmListLoans.cs",
+              "RelativeDocumentMoniker": "Loans\\frmListLoans.cs",
+              "ToolTip": "C:\\Users\\DellUser\\OneDrive\\OneDrive - University of the People\\Desktop\\Course 20\\Library\\Loans\\frmListLoans.cs [Design]",
+              "RelativeToolTip": "Loans\\frmListLoans.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T08:47:35.403Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "frmAddUpdateCourse.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\DellUser\\OneDrive\\OneDrive - University of the People\\Desktop\\Course 20\\Library\\Courses\\frmAddUpdateCourse.cs",
+              "RelativeDocumentMoniker": "Courses\\frmAddUpdateCourse.cs",
+              "ToolTip": "C:\\Users\\DellUser\\OneDrive\\OneDrive - University of the People\\Desktop\\Course 20\\Library\\Courses\\frmAddUpdateCourse.cs [Design]",
+              "RelativeToolTip": "Courses\\frmAddUpdateCourse.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T13:33:35.821Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "frmListMembers.cs",
+              "DocumentMoniker": "C:\\Users\\DellUser\\OneDrive\\OneDrive - University of the People\\Desktop\\Course 20\\Library\\Members\\frmListMembers.cs",
+              "RelativeDocumentMoniker": "Members\\frmListMembers.cs",
+              "ToolTip": "C:\\Users\\DellUser\\OneDrive\\OneDrive - University of the People\\Desktop\\Course 20\\Library\\Members\\frmListMembers.cs",
+              "RelativeToolTip": "Members\\frmListMembers.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAmwBcAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T08:37:20.017Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ctrlCourseInfo.cs",
+              "DocumentMoniker": "C:\\Users\\DellUser\\OneDrive\\OneDrive - University of the People\\Desktop\\Course 20\\Library\\Courses\\ctrlCourseInfo.cs",
+              "RelativeDocumentMoniker": "Courses\\ctrlCourseInfo.cs",
+              "ToolTip": "C:\\Users\\DellUser\\OneDrive\\OneDrive - University of the People\\Desktop\\Course 20\\Library\\Courses\\ctrlCourseInfo.cs",
+              "RelativeToolTip": "Courses\\ctrlCourseInfo.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAYwCUAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T10:26:22.383Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ctrlMemberInfo.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\DellUser\\OneDrive\\OneDrive - University of the People\\Desktop\\Course 20\\Library\\Members\\Controls\\ctrlMemberInfo.cs",
+              "RelativeDocumentMoniker": "Members\\Controls\\ctrlMemberInfo.cs",
+              "ToolTip": "C:\\Users\\DellUser\\OneDrive\\OneDrive - University of the People\\Desktop\\Course 20\\Library\\Members\\Controls\\ctrlMemberInfo.cs [Design]",
+              "RelativeToolTip": "Members\\Controls\\ctrlMemberInfo.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T11:41:09.837Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "frmListPayments.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\DellUser\\OneDrive\\OneDrive - University of the People\\Desktop\\Course 20\\Library\\Payments\\frmListPayments.cs",
+              "RelativeDocumentMoniker": "Payments\\frmListPayments.cs",
+              "ToolTip": "C:\\Users\\DellUser\\OneDrive\\OneDrive - University of the People\\Desktop\\Course 20\\Library\\Payments\\frmListPayments.cs [Design]",
+              "RelativeToolTip": "Payments\\frmListPayments.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T07:57:09.912Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "frmListMembershipTypes.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\DellUser\\OneDrive\\OneDrive - University of the People\\Desktop\\Course 20\\Library\\Members\\frmListMembershipTypes.cs",
+              "RelativeDocumentMoniker": "Members\\frmListMembershipTypes.cs",
+              "ToolTip": "C:\\Users\\DellUser\\OneDrive\\OneDrive - University of the People\\Desktop\\Course 20\\Library\\Members\\frmListMembershipTypes.cs [Design]",
+              "RelativeToolTip": "Members\\frmListMembershipTypes.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T11:54:31.991Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "frmAddLoan.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\DellUser\\OneDrive\\OneDrive - University of the People\\Desktop\\Course 20\\Library\\Loans\\frmAddLoan.cs",
+              "RelativeDocumentMoniker": "Loans\\frmAddLoan.cs",
+              "ToolTip": "C:\\Users\\DellUser\\OneDrive\\OneDrive - University of the People\\Desktop\\Course 20\\Library\\Loans\\frmAddLoan.cs [Design]",
+              "RelativeToolTip": "Loans\\frmAddLoan.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T07:13:43.912Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "frmMemberInfo.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\DellUser\\OneDrive\\OneDrive - University of the People\\Desktop\\Course 20\\Library\\Members\\frmMemberInfo.cs",
+              "RelativeDocumentMoniker": "Members\\frmMemberInfo.cs",
+              "ToolTip": "C:\\Users\\DellUser\\OneDrive\\OneDrive - University of the People\\Desktop\\Course 20\\Library\\Members\\frmMemberInfo.cs [Design]",
+              "RelativeToolTip": "Members\\frmMemberInfo.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T07:38:45.357Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "frmListMembers.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\DellUser\\OneDrive\\OneDrive - University of the People\\Desktop\\Course 20\\Library\\Members\\frmListMembers.cs",
+              "RelativeDocumentMoniker": "Members\\frmListMembers.cs",
+              "ToolTip": "C:\\Users\\DellUser\\OneDrive\\OneDrive - University of the People\\Desktop\\Course 20\\Library\\Members\\frmListMembers.cs [Design]",
+              "RelativeToolTip": "Members\\frmListMembers.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T08:35:36.668Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "frmAddUpdateMember.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\DellUser\\OneDrive\\OneDrive - University of the People\\Desktop\\Course 20\\Library\\Members\\frmAddUpdateMember.cs",
+              "RelativeDocumentMoniker": "Members\\frmAddUpdateMember.cs",
+              "ToolTip": "C:\\Users\\DellUser\\OneDrive\\OneDrive - University of the People\\Desktop\\Course 20\\Library\\Members\\frmAddUpdateMember.cs [Design]",
+              "RelativeToolTip": "Members\\frmAddUpdateMember.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T10:25:33.046Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "frmAddUpdateMember.cs",
+              "DocumentMoniker": "C:\\Users\\DellUser\\OneDrive\\OneDrive - University of the People\\Desktop\\Course 20\\Library\\Members\\frmAddUpdateMember.cs",
+              "RelativeDocumentMoniker": "Members\\frmAddUpdateMember.cs",
+              "ToolTip": "C:\\Users\\DellUser\\OneDrive\\OneDrive - University of the People\\Desktop\\Course 20\\Library\\Members\\frmAddUpdateMember.cs",
+              "RelativeToolTip": "Members\\frmAddUpdateMember.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAwwG0AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T10:28:19.732Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ctrlMemberInfoWithFilter.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\DellUser\\OneDrive\\OneDrive - University of the People\\Desktop\\Course 20\\Library\\Members\\Controls\\ctrlMemberInfoWithFilter.cs",
+              "RelativeDocumentMoniker": "Members\\Controls\\ctrlMemberInfoWithFilter.cs",
+              "ToolTip": "C:\\Users\\DellUser\\OneDrive\\OneDrive - University of the People\\Desktop\\Course 20\\Library\\Members\\Controls\\ctrlMemberInfoWithFilter.cs [Design]",
+              "RelativeToolTip": "Members\\Controls\\ctrlMemberInfoWithFilter.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T11:46:17.303Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "frmListUsers.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\DellUser\\OneDrive\\OneDrive - University of the People\\Desktop\\Course 20\\Library\\Users\\frmListUsers.cs",
+              "RelativeDocumentMoniker": "Users\\frmListUsers.cs",
+              "ToolTip": "C:\\Users\\DellUser\\OneDrive\\OneDrive - University of the People\\Desktop\\Course 20\\Library\\Users\\frmListUsers.cs [Design]",
+              "RelativeToolTip": "Users\\frmListUsers.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T07:46:15.461Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "frmChangePassword.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\DellUser\\OneDrive\\OneDrive - University of the People\\Desktop\\Course 20\\Library\\Users\\frmChangePassword.cs",
+              "RelativeDocumentMoniker": "Users\\frmChangePassword.cs",
+              "ToolTip": "C:\\Users\\DellUser\\OneDrive\\OneDrive - University of the People\\Desktop\\Course 20\\Library\\Users\\frmChangePassword.cs [Design]",
+              "RelativeToolTip": "Users\\frmChangePassword.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T10:59:13.768Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "frmAddUser.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\DellUser\\OneDrive\\OneDrive - University of the People\\Desktop\\Course 20\\Library\\Users\\frmAddUser.cs",
+              "RelativeDocumentMoniker": "Users\\frmAddUser.cs",
+              "ToolTip": "C:\\Users\\DellUser\\OneDrive\\OneDrive - University of the People\\Desktop\\Course 20\\Library\\Users\\frmAddUser.cs [Design]",
+              "RelativeToolTip": "Users\\frmAddUser.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T07:05:22.191Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "frmUserInfo.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\DellUser\\OneDrive\\OneDrive - University of the People\\Desktop\\Course 20\\Library\\Users\\frmUserInfo.cs",
+              "RelativeDocumentMoniker": "Users\\frmUserInfo.cs",
+              "ToolTip": "C:\\Users\\DellUser\\OneDrive\\OneDrive - University of the People\\Desktop\\Course 20\\Library\\Users\\frmUserInfo.cs [Design]",
+              "RelativeToolTip": "Users\\frmUserInfo.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T10:05:35.548Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ctrlUserInfo.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\DellUser\\OneDrive\\OneDrive - University of the People\\Desktop\\Course 20\\Library\\Users\\ctrlUserInfo.cs",
+              "RelativeDocumentMoniker": "Users\\ctrlUserInfo.cs",
+              "ToolTip": "C:\\Users\\DellUser\\OneDrive\\OneDrive - University of the People\\Desktop\\Course 20\\Library\\Users\\ctrlUserInfo.cs [Design]",
+              "RelativeToolTip": "Users\\ctrlUserInfo.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T09:28:38.807Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ctrlUserInfo.cs",
+              "DocumentMoniker": "C:\\Users\\DellUser\\OneDrive\\OneDrive - University of the People\\Desktop\\Course 20\\Library\\Users\\ctrlUserInfo.cs",
+              "RelativeDocumentMoniker": "Users\\ctrlUserInfo.cs",
+              "ToolTip": "C:\\Users\\DellUser\\OneDrive\\OneDrive - University of the People\\Desktop\\Course 20\\Library\\Users\\ctrlUserInfo.cs",
+              "RelativeToolTip": "Users\\ctrlUserInfo.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAYwB0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T09:35:00.857Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "frmMainScreen.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\DellUser\\OneDrive\\OneDrive - University of the People\\Desktop\\Course 20\\Library\\frmMainScreen.cs",
+              "RelativeDocumentMoniker": "frmMainScreen.cs",
+              "ToolTip": "C:\\Users\\DellUser\\OneDrive\\OneDrive - University of the People\\Desktop\\Course 20\\Library\\frmMainScreen.cs [Design]",
+              "RelativeToolTip": "frmMainScreen.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T10:57:46.714Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "frmMainScreen.cs",
+              "DocumentMoniker": "C:\\Users\\DellUser\\OneDrive\\OneDrive - University of the People\\Desktop\\Course 20\\Library\\frmMainScreen.cs",
+              "RelativeDocumentMoniker": "frmMainScreen.cs",
+              "ToolTip": "C:\\Users\\DellUser\\OneDrive\\OneDrive - University of the People\\Desktop\\Course 20\\Library\\frmMainScreen.cs",
+              "RelativeToolTip": "frmMainScreen.cs",
+              "ViewState": "AgIAAIwAAAAAAAAAAAAAAIwAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T18:04:08.71Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "frmLogin.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\DellUser\\OneDrive\\OneDrive - University of the People\\Desktop\\Course 20\\Library\\frmLogin.cs",
+              "RelativeDocumentMoniker": "frmLogin.cs",
+              "ToolTip": "C:\\Users\\DellUser\\OneDrive\\OneDrive - University of the People\\Desktop\\Course 20\\Library\\frmLogin.cs [Design]",
+              "RelativeToolTip": "frmLogin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T06:17:39.4Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "frmLogin.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\DellUser\\OneDrive\\OneDrive - University of the People\\Desktop\\Course 20\\Library\\frmLogin.Designer.cs",
+              "RelativeDocumentMoniker": "frmLogin.Designer.cs",
+              "ToolTip": "C:\\Users\\DellUser\\OneDrive\\OneDrive - University of the People\\Desktop\\Course 20\\Library\\frmLogin.Designer.cs",
+              "RelativeToolTip": "frmLogin.Designer.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAwwDwAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T10:49:09.945Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "ctrlBookInfoWithFilter.cs",
+              "DocumentMoniker": "C:\\Users\\DellUser\\OneDrive\\OneDrive - University of the People\\Desktop\\Course 20\\Library\\Books\\Controls\\ctrlBookInfoWithFilter.cs",
+              "RelativeDocumentMoniker": "Books\\Controls\\ctrlBookInfoWithFilter.cs",
+              "ToolTip": "C:\\Users\\DellUser\\OneDrive\\OneDrive - University of the People\\Desktop\\Course 20\\Library\\Books\\Controls\\ctrlBookInfoWithFilter.cs",
+              "RelativeToolTip": "Books\\Controls\\ctrlBookInfoWithFilter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T08:34:08.722Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "frmShowBookInfo.cs",
+              "DocumentMoniker": "C:\\Users\\DellUser\\OneDrive\\OneDrive - University of the People\\Desktop\\Course 20\\Library\\Books\\frmShowBookInfo.cs",
+              "RelativeDocumentMoniker": "Books\\frmShowBookInfo.cs",
+              "ToolTip": "C:\\Users\\DellUser\\OneDrive\\OneDrive - University of the People\\Desktop\\Course 20\\Library\\Books\\frmShowBookInfo.cs",
+              "RelativeToolTip": "Books\\frmShowBookInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T07:21:55.749Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "frmListBooks.cs",
+              "DocumentMoniker": "C:\\Users\\DellUser\\OneDrive\\OneDrive - University of the People\\Desktop\\Course 20\\Library\\Books\\frmListBooks.cs",
+              "RelativeDocumentMoniker": "Books\\frmListBooks.cs",
+              "ToolTip": "C:\\Users\\DellUser\\OneDrive\\OneDrive - University of the People\\Desktop\\Course 20\\Library\\Books\\frmListBooks.cs",
+              "RelativeToolTip": "Books\\frmListBooks.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T11:00:37.062Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "frmLogin.cs",
+              "DocumentMoniker": "C:\\Users\\DellUser\\OneDrive\\OneDrive - University of the People\\Desktop\\Course 20\\Library\\frmLogin.cs",
+              "RelativeDocumentMoniker": "frmLogin.cs",
+              "ToolTip": "C:\\Users\\DellUser\\OneDrive\\OneDrive - University of the People\\Desktop\\Course 20\\Library\\frmLogin.cs",
+              "RelativeToolTip": "frmLogin.cs",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAwwE8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T18:13:42.039Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "frmAddUpdateBook.cs",
+              "DocumentMoniker": "C:\\Users\\DellUser\\OneDrive\\OneDrive - University of the People\\Desktop\\Course 20\\Library\\Books\\frmAddUpdateBook.cs",
+              "RelativeDocumentMoniker": "Books\\frmAddUpdateBook.cs",
+              "ToolTip": "C:\\Users\\DellUser\\OneDrive\\OneDrive - University of the People\\Desktop\\Course 20\\Library\\Books\\frmAddUpdateBook.cs",
+              "RelativeToolTip": "Books\\frmAddUpdateBook.cs",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAywEYAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T07:13:55.613Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "ctrlBookInfo.cs",
+              "DocumentMoniker": "C:\\Users\\DellUser\\OneDrive\\OneDrive - University of the People\\Desktop\\Course 20\\Library\\Books\\Controls\\ctrlBookInfo.cs",
+              "RelativeDocumentMoniker": "Books\\Controls\\ctrlBookInfo.cs",
+              "ToolTip": "C:\\Users\\DellUser\\OneDrive\\OneDrive - University of the People\\Desktop\\Course 20\\Library\\Books\\Controls\\ctrlBookInfo.cs",
+              "RelativeToolTip": "Books\\Controls\\ctrlBookInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T08:33:09.387Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "frmAddUser.cs",
+              "DocumentMoniker": "C:\\Users\\DellUser\\OneDrive\\OneDrive - University of the People\\Desktop\\Course 20\\Library\\Users\\frmAddUser.cs",
+              "RelativeDocumentMoniker": "Users\\frmAddUser.cs",
+              "ToolTip": "C:\\Users\\DellUser\\OneDrive\\OneDrive - University of the People\\Desktop\\Course 20\\Library\\Users\\frmAddUser.cs",
+              "RelativeToolTip": "Users\\frmAddUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T07:11:32.576Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "clsUtil.cs",
+              "DocumentMoniker": "C:\\Users\\DellUser\\OneDrive\\OneDrive - University of the People\\Desktop\\Course 20\\Library_Business\\clsUtil.cs",
+              "RelativeDocumentMoniker": "..\\Library_Business\\clsUtil.cs",
+              "ToolTip": "C:\\Users\\DellUser\\OneDrive\\OneDrive - University of the People\\Desktop\\Course 20\\Library_Business\\clsUtil.cs",
+              "RelativeToolTip": "..\\Library_Business\\clsUtil.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAmwBgAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T06:08:42.236Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "clsUser.cs",
+              "DocumentMoniker": "C:\\Users\\DellUser\\OneDrive\\OneDrive - University of the People\\Desktop\\Course 20\\Library_Business\\clsUser.cs",
+              "RelativeDocumentMoniker": "..\\Library_Business\\clsUser.cs",
+              "ToolTip": "C:\\Users\\DellUser\\OneDrive\\OneDrive - University of the People\\Desktop\\Course 20\\Library_Business\\clsUser.cs",
+              "RelativeToolTip": "..\\Library_Business\\clsUser.cs",
+              "ViewState": "AgIAAGcAAAAAAAAAAAAmwG0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T06:58:44.612Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "clsUserData.cs",
+              "DocumentMoniker": "C:\\Users\\DellUser\\OneDrive\\OneDrive - University of the People\\Desktop\\Course 20\\Library_Data\\clsUserData.cs",
+              "RelativeDocumentMoniker": "..\\Library_Data\\clsUserData.cs",
+              "ToolTip": "C:\\Users\\DellUser\\OneDrive\\OneDrive - University of the People\\Desktop\\Course 20\\Library_Data\\clsUserData.cs",
+              "RelativeToolTip": "..\\Library_Data\\clsUserData.cs",
+              "ViewState": "AgIAAL4AAAAAAAAAAAAmwMUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T05:59:10.355Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "clsAuthor.cs",
+              "DocumentMoniker": "C:\\Users\\DellUser\\OneDrive\\OneDrive - University of the People\\Desktop\\Course 20\\Library_Business\\clsAuthor.cs",
+              "RelativeDocumentMoniker": "..\\Library_Business\\clsAuthor.cs",
+              "ToolTip": "C:\\Users\\DellUser\\OneDrive\\OneDrive - University of the People\\Desktop\\Course 20\\Library_Business\\clsAuthor.cs",
+              "RelativeToolTip": "..\\Library_Business\\clsAuthor.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAUwDMAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T10:02:29.162Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "ctrlUserInfo.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\DellUser\\OneDrive\\OneDrive - University of the People\\Desktop\\Course 20\\Library\\Users\\ctrlUserInfo.Designer.cs",
+              "RelativeDocumentMoniker": "Users\\ctrlUserInfo.Designer.cs",
+              "ToolTip": "C:\\Users\\DellUser\\OneDrive\\OneDrive - University of the People\\Desktop\\Course 20\\Library\\Users\\ctrlUserInfo.Designer.cs",
+              "RelativeToolTip": "Users\\ctrlUserInfo.Designer.cs",
+              "ViewState": "AgIAAJoAAAAAAAAAAAAQwKQAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T07:47:02.885Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "clsBook.cs",
+              "DocumentMoniker": "C:\\Users\\DellUser\\OneDrive\\OneDrive - University of the People\\Desktop\\Course 20\\Library_Business\\clsBook.cs",
+              "RelativeDocumentMoniker": "..\\Library_Business\\clsBook.cs",
+              "ToolTip": "C:\\Users\\DellUser\\OneDrive\\OneDrive - University of the People\\Desktop\\Course 20\\Library_Business\\clsBook.cs",
+              "RelativeToolTip": "..\\Library_Business\\clsBook.cs",
+              "ViewState": "AgIAAI4AAAAAAAAAAAAwwGEAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T10:25:24.645Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "clsCourse.cs",
+              "DocumentMoniker": "C:\\Users\\DellUser\\OneDrive\\OneDrive - University of the People\\Desktop\\Course 20\\Library_Business\\clsCourse.cs",
+              "RelativeDocumentMoniker": "..\\Library_Business\\clsCourse.cs",
+              "ToolTip": "C:\\Users\\DellUser\\OneDrive\\OneDrive - University of the People\\Desktop\\Course 20\\Library_Business\\clsCourse.cs",
+              "RelativeToolTip": "..\\Library_Business\\clsCourse.cs",
+              "ViewState": "AgIAAIEAAAAAAAAAAAAowBgAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T05:56:57.907Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "clsFine.cs",
+              "DocumentMoniker": "C:\\Users\\DellUser\\OneDrive\\OneDrive - University of the People\\Desktop\\Course 20\\Library_Business\\clsFine.cs",
+              "RelativeDocumentMoniker": "..\\Library_Business\\clsFine.cs",
+              "ToolTip": "C:\\Users\\DellUser\\OneDrive\\OneDrive - University of the People\\Desktop\\Course 20\\Library_Business\\clsFine.cs",
+              "RelativeToolTip": "..\\Library_Business\\clsFine.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAgwB0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T10:40:36.191Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "clsMember.cs",
+              "DocumentMoniker": "C:\\Users\\DellUser\\OneDrive\\OneDrive - University of the People\\Desktop\\Course 20\\Library_Business\\clsMember.cs",
+              "RelativeDocumentMoniker": "..\\Library_Business\\clsMember.cs",
+              "ToolTip": "C:\\Users\\DellUser\\OneDrive\\OneDrive - University of the People\\Desktop\\Course 20\\Library_Business\\clsMember.cs",
+              "RelativeToolTip": "..\\Library_Business\\clsMember.cs",
+              "ViewState": "AgIAAIoAAAAAAAAAAAAUwJMAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T10:41:58.814Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "clsLoan.cs",
+              "DocumentMoniker": "C:\\Users\\DellUser\\OneDrive\\OneDrive - University of the People\\Desktop\\Course 20\\Library_Business\\clsLoan.cs",
+              "RelativeDocumentMoniker": "..\\Library_Business\\clsLoan.cs",
+              "ToolTip": "C:\\Users\\DellUser\\OneDrive\\OneDrive - University of the People\\Desktop\\Course 20\\Library_Business\\clsLoan.cs",
+              "RelativeToolTip": "..\\Library_Business\\clsLoan.cs",
+              "ViewState": "AgIAAHIAAAAAAAAAAAA1wJgAAABnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T10:41:12.084Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "clsMembershipType.cs",
+              "DocumentMoniker": "C:\\Users\\DellUser\\OneDrive\\OneDrive - University of the People\\Desktop\\Course 20\\Library_Business\\clsMembershipType.cs",
+              "RelativeDocumentMoniker": "..\\Library_Business\\clsMembershipType.cs",
+              "ToolTip": "C:\\Users\\DellUser\\OneDrive\\OneDrive - University of the People\\Desktop\\Course 20\\Library_Business\\clsMembershipType.cs",
+              "RelativeToolTip": "..\\Library_Business\\clsMembershipType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T10:42:58.106Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "clsFineData.cs",
+              "DocumentMoniker": "C:\\Users\\DellUser\\OneDrive\\OneDrive - University of the People\\Desktop\\Course 20\\Library_Data\\clsFineData.cs",
+              "RelativeDocumentMoniker": "..\\Library_Data\\clsFineData.cs",
+              "ToolTip": "C:\\Users\\DellUser\\OneDrive\\OneDrive - University of the People\\Desktop\\Course 20\\Library_Data\\clsFineData.cs",
+              "RelativeToolTip": "..\\Library_Data\\clsFineData.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAA4wJYAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T06:02:10.429Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "clsAuthorData.cs",
+              "DocumentMoniker": "C:\\Users\\DellUser\\OneDrive\\OneDrive - University of the People\\Desktop\\Course 20\\Library_Data\\clsAuthorData.cs",
+              "RelativeDocumentMoniker": "..\\Library_Data\\clsAuthorData.cs",
+              "ToolTip": "C:\\Users\\DellUser\\OneDrive\\OneDrive - University of the People\\Desktop\\Course 20\\Library_Data\\clsAuthorData.cs",
+              "RelativeToolTip": "..\\Library_Data\\clsAuthorData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEYAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T06:06:59.162Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "clsMemberData.cs",
+              "DocumentMoniker": "C:\\Users\\DellUser\\OneDrive\\OneDrive - University of the People\\Desktop\\Course 20\\Library_Data\\clsMemberData.cs",
+              "RelativeDocumentMoniker": "..\\Library_Data\\clsMemberData.cs",
+              "ToolTip": "C:\\Users\\DellUser\\OneDrive\\OneDrive - University of the People\\Desktop\\Course 20\\Library_Data\\clsMemberData.cs",
+              "RelativeToolTip": "..\\Library_Data\\clsMemberData.cs",
+              "ViewState": "AgIAAPMAAAAAAAAAAAAUwP4AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T06:00:33.571Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "clsSettingsData.cs",
+              "DocumentMoniker": "C:\\Users\\DellUser\\OneDrive\\OneDrive - University of the People\\Desktop\\Course 20\\Library_Data\\clsSettingsData.cs",
+              "RelativeDocumentMoniker": "..\\Library_Data\\clsSettingsData.cs",
+              "ToolTip": "C:\\Users\\DellUser\\OneDrive\\OneDrive - University of the People\\Desktop\\Course 20\\Library_Data\\clsSettingsData.cs",
+              "RelativeToolTip": "..\\Library_Data\\clsSettingsData.cs",
+              "ViewState": "AgIAAHsAAAAAAAAAAAAmwIIAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T10:25:15.497Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "clsBookData.cs",
+              "DocumentMoniker": "C:\\Users\\DellUser\\OneDrive\\OneDrive - University of the People\\Desktop\\Course 20\\Library_Data\\clsBookData.cs",
+              "RelativeDocumentMoniker": "..\\Library_Data\\clsBookData.cs",
+              "ToolTip": "C:\\Users\\DellUser\\OneDrive\\OneDrive - University of the People\\Desktop\\Course 20\\Library_Data\\clsBookData.cs",
+              "RelativeToolTip": "..\\Library_Data\\clsBookData.cs",
+              "ViewState": "AgIAAMIAAAAAAAAAAAAIwDcBAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T06:06:01.496Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "clsCourseData.cs",
+              "DocumentMoniker": "C:\\Users\\DellUser\\OneDrive\\OneDrive - University of the People\\Desktop\\Course 20\\Library_Data\\clsCourseData.cs",
+              "RelativeDocumentMoniker": "..\\Library_Data\\clsCourseData.cs",
+              "ToolTip": "C:\\Users\\DellUser\\OneDrive\\OneDrive - University of the People\\Desktop\\Course 20\\Library_Data\\clsCourseData.cs",
+              "RelativeToolTip": "..\\Library_Data\\clsCourseData.cs",
+              "ViewState": "AgIAAH4AAAAAAAAAAAAcwAQBAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T05:56:58.617Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "clsLogger.cs",
+              "DocumentMoniker": "C:\\Users\\DellUser\\OneDrive\\OneDrive - University of the People\\Desktop\\Course 20\\Library_Data\\clsLogger.cs",
+              "RelativeDocumentMoniker": "..\\Library_Data\\clsLogger.cs",
+              "ToolTip": "C:\\Users\\DellUser\\OneDrive\\OneDrive - University of the People\\Desktop\\Course 20\\Library_Data\\clsLogger.cs",
+              "RelativeToolTip": "..\\Library_Data\\clsLogger.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAmwAkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T06:01:35.351Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "frmListLoans.cs",
+              "DocumentMoniker": "C:\\Users\\DellUser\\OneDrive\\OneDrive - University of the People\\Desktop\\Course 20\\Library\\Loans\\frmListLoans.cs",
+              "RelativeDocumentMoniker": "Loans\\frmListLoans.cs",
+              "ToolTip": "C:\\Users\\DellUser\\OneDrive\\OneDrive - University of the People\\Desktop\\Course 20\\Library\\Loans\\frmListLoans.cs",
+              "RelativeToolTip": "Loans\\frmListLoans.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T10:20:47.667Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "clsLoanData.cs",
+              "DocumentMoniker": "C:\\Users\\DellUser\\OneDrive\\OneDrive - University of the People\\Desktop\\Course 20\\Library_Data\\clsLoanData.cs",
+              "RelativeDocumentMoniker": "..\\Library_Data\\clsLoanData.cs",
+              "ToolTip": "C:\\Users\\DellUser\\OneDrive\\OneDrive - University of the People\\Desktop\\Course 20\\Library_Data\\clsLoanData.cs",
+              "RelativeToolTip": "..\\Library_Data\\clsLoanData.cs",
+              "ViewState": "AgIAAM0AAAAAAAAAAADwvwEBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T06:01:39.982Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "clsMembershipTypeData.cs",
+              "DocumentMoniker": "C:\\Users\\DellUser\\OneDrive\\OneDrive - University of the People\\Desktop\\Course 20\\Library_Data\\clsMembershipTypeData.cs",
+              "RelativeDocumentMoniker": "..\\Library_Data\\clsMembershipTypeData.cs",
+              "ToolTip": "C:\\Users\\DellUser\\OneDrive\\OneDrive - University of the People\\Desktop\\Course 20\\Library_Data\\clsMembershipTypeData.cs",
+              "RelativeToolTip": "..\\Library_Data\\clsMembershipTypeData.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwAoAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T06:00:18.356Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "frmListUsers.cs",
+              "DocumentMoniker": "C:\\Users\\DellUser\\OneDrive\\OneDrive - University of the People\\Desktop\\Course 20\\Library\\Users\\frmListUsers.cs",
+              "RelativeDocumentMoniker": "Users\\frmListUsers.cs",
+              "ToolTip": "C:\\Users\\DellUser\\OneDrive\\OneDrive - University of the People\\Desktop\\Course 20\\Library\\Users\\frmListUsers.cs",
+              "RelativeToolTip": "Users\\frmListUsers.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAFQAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T07:48:26.312Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "frmListMembershipTypes.cs",
+              "DocumentMoniker": "C:\\Users\\DellUser\\OneDrive\\OneDrive - University of the People\\Desktop\\Course 20\\Library\\Members\\frmListMembershipTypes.cs",
+              "RelativeDocumentMoniker": "Members\\frmListMembershipTypes.cs",
+              "ToolTip": "C:\\Users\\DellUser\\OneDrive\\OneDrive - University of the People\\Desktop\\Course 20\\Library\\Members\\frmListMembershipTypes.cs",
+              "RelativeToolTip": "Members\\frmListMembershipTypes.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAmwCQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T11:10:12.452Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "frmListPayments.cs",
+              "DocumentMoniker": "C:\\Users\\DellUser\\OneDrive\\OneDrive - University of the People\\Desktop\\Course 20\\Library\\Payments\\frmListPayments.cs",
+              "RelativeDocumentMoniker": "Payments\\frmListPayments.cs",
+              "ToolTip": "C:\\Users\\DellUser\\OneDrive\\OneDrive - University of the People\\Desktop\\Course 20\\Library\\Payments\\frmListPayments.cs",
+              "RelativeToolTip": "Payments\\frmListPayments.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T10:23:16.003Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "frmAddLoan.cs",
+              "DocumentMoniker": "C:\\Users\\DellUser\\OneDrive\\OneDrive - University of the People\\Desktop\\Course 20\\Library\\Loans\\frmAddLoan.cs",
+              "RelativeDocumentMoniker": "Loans\\frmAddLoan.cs",
+              "ToolTip": "C:\\Users\\DellUser\\OneDrive\\OneDrive - University of the People\\Desktop\\Course 20\\Library\\Loans\\frmAddLoan.cs",
+              "RelativeToolTip": "Loans\\frmAddLoan.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAmwCUAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T07:19:36.719Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "frmAddUpdateCourse.cs",
+              "DocumentMoniker": "C:\\Users\\DellUser\\OneDrive\\OneDrive - University of the People\\Desktop\\Course 20\\Library\\Courses\\frmAddUpdateCourse.cs",
+              "RelativeDocumentMoniker": "Courses\\frmAddUpdateCourse.cs",
+              "ToolTip": "C:\\Users\\DellUser\\OneDrive\\OneDrive - University of the People\\Desktop\\Course 20\\Library\\Courses\\frmAddUpdateCourse.cs",
+              "RelativeToolTip": "Courses\\frmAddUpdateCourse.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAqwBcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T13:48:52.051Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "frmEnrolledMembers.cs",
+              "DocumentMoniker": "C:\\Users\\DellUser\\OneDrive\\OneDrive - University of the People\\Desktop\\Course 20\\Library\\Courses\\frmEnrolledMembers.cs",
+              "RelativeDocumentMoniker": "Courses\\frmEnrolledMembers.cs",
+              "ToolTip": "C:\\Users\\DellUser\\OneDrive\\OneDrive - University of the People\\Desktop\\Course 20\\Library\\Courses\\frmEnrolledMembers.cs",
+              "RelativeToolTip": "Courses\\frmEnrolledMembers.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAQwCwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T15:30:24.112Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "frmListBooks.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\DellUser\\OneDrive\\OneDrive - University of the People\\Desktop\\Course 20\\Library\\Books\\frmListBooks.Designer.cs",
+              "RelativeDocumentMoniker": "Books\\frmListBooks.Designer.cs",
+              "ToolTip": "C:\\Users\\DellUser\\OneDrive\\OneDrive - University of the People\\Desktop\\Course 20\\Library\\Books\\frmListBooks.Designer.cs",
+              "RelativeToolTip": "Books\\frmListBooks.Designer.cs",
+              "ViewState": "AgIAAOUAAAAAAAAAAAAswO0AAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T10:48:46.938Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "frmListBooks.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\DellUser\\OneDrive\\OneDrive - University of the People\\Desktop\\Course 20\\Library\\Books\\frmListBooks.cs",
+              "RelativeDocumentMoniker": "Books\\frmListBooks.cs",
+              "ToolTip": "C:\\Users\\DellUser\\OneDrive\\OneDrive - University of the People\\Desktop\\Course 20\\Library\\Books\\frmListBooks.cs [Design]",
+              "RelativeToolTip": "Books\\frmListBooks.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T10:57:07.87Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "frmAddUpdateCourse.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\DellUser\\OneDrive\\OneDrive - University of the People\\Desktop\\Course 20\\Library\\Courses\\frmAddUpdateCourse.Designer.cs",
+              "RelativeDocumentMoniker": "Courses\\frmAddUpdateCourse.Designer.cs",
+              "ToolTip": "C:\\Users\\DellUser\\OneDrive\\OneDrive - University of the People\\Desktop\\Course 20\\Library\\Courses\\frmAddUpdateCourse.Designer.cs",
+              "RelativeToolTip": "Courses\\frmAddUpdateCourse.Designer.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwA8AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T06:11:01.45Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 105,
+              "Title": "clsMember.cs",
+              "DocumentMoniker": "C:\\Users\\DellUser\\Desktop\\Course 20\\Library_Business\\clsMember.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Desktop\\Course 20\\Library_Business\\clsMember.cs",
+              "ToolTip": "C:\\Users\\DellUser\\Desktop\\Course 20\\Library_Business\\clsMember.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Desktop\\Course 20\\Library_Business\\clsMember.cs",
+              "ViewState": "AgIAAFoAAAAAAAAAAAD4v2IAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T16:37:03.672Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "clsCourseData.cs",
+              "DocumentMoniker": "C:\\Users\\DellUser\\Desktop\\Course 20\\Library_Data\\clsCourseData.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Desktop\\Course 20\\Library_Data\\clsCourseData.cs",
+              "ToolTip": "C:\\Users\\DellUser\\Desktop\\Course 20\\Library_Data\\clsCourseData.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Desktop\\Course 20\\Library_Data\\clsCourseData.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T11:00:28.876Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 106,
+              "Title": "clsMemberData.cs",
+              "DocumentMoniker": "C:\\Users\\DellUser\\Desktop\\Course 20\\Library_Data\\clsMemberData.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Desktop\\Course 20\\Library_Data\\clsMemberData.cs",
+              "ToolTip": "C:\\Users\\DellUser\\Desktop\\Course 20\\Library_Data\\clsMemberData.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Desktop\\Course 20\\Library_Data\\clsMemberData.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAIAywDgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T19:16:51.013Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 107,
+              "Title": "clsCourse.cs",
+              "DocumentMoniker": "C:\\Users\\DellUser\\Desktop\\Course 20\\Library_Business\\clsCourse.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Desktop\\Course 20\\Library_Business\\clsCourse.cs",
+              "ToolTip": "C:\\Users\\DellUser\\Desktop\\Course 20\\Library_Business\\clsCourse.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Desktop\\Course 20\\Library_Business\\clsCourse.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T11:15:33.421Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "frmEnrollMemberInCourse.cs",
+              "DocumentMoniker": "C:\\Users\\DellUser\\OneDrive\\OneDrive - University of the People\\Desktop\\Course 20\\Library\\Courses\\frmEnrollMemberInCourse.cs",
+              "RelativeDocumentMoniker": "Courses\\frmEnrollMemberInCourse.cs",
+              "ToolTip": "C:\\Users\\DellUser\\OneDrive\\OneDrive - University of the People\\Desktop\\Course 20\\Library\\Courses\\frmEnrollMemberInCourse.cs",
+              "RelativeToolTip": "Courses\\frmEnrollMemberInCourse.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACkAAABiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T14:08:01.915Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "frmCourseDetails.cs",
+              "DocumentMoniker": "C:\\Users\\DellUser\\OneDrive\\OneDrive - University of the People\\Desktop\\Course 20\\Library\\Courses\\frmCourseDetails.cs",
+              "RelativeDocumentMoniker": "Courses\\frmCourseDetails.cs",
+              "ToolTip": "C:\\Users\\DellUser\\OneDrive\\OneDrive - University of the People\\Desktop\\Course 20\\Library\\Courses\\frmCourseDetails.cs",
+              "RelativeToolTip": "Courses\\frmCourseDetails.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAMwBgAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T15:09:04.6Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 118,
+              "Title": "ctrlMemberInfoWithFilter.cs",
+              "DocumentMoniker": "C:\\Users\\DellUser\\OneDrive\\OneDrive - University of the People\\Desktop\\Course 20\\Library\\Members\\ctrlMemberInfoWithFilter.cs",
+              "RelativeDocumentMoniker": "Members\\ctrlMemberInfoWithFilter.cs",
+              "ToolTip": "C:\\Users\\DellUser\\OneDrive\\OneDrive - University of the People\\Desktop\\Course 20\\Library\\Members\\ctrlMemberInfoWithFilter.cs",
+              "RelativeToolTip": "Members\\ctrlMemberInfoWithFilter.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T07:54:05.167Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "frmAddLoan.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\DellUser\\OneDrive\\OneDrive - University of the People\\Desktop\\Course 20\\Library\\Loans\\frmAddLoan.Designer.cs",
+              "RelativeDocumentMoniker": "Loans\\frmAddLoan.Designer.cs",
+              "ToolTip": "C:\\Users\\DellUser\\OneDrive\\OneDrive - University of the People\\Desktop\\Course 20\\Library\\Loans\\frmAddLoan.Designer.cs",
+              "RelativeToolTip": "Loans\\frmAddLoan.Designer.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAABRwBYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T14:47:10.149Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 119,
+              "Title": "ctrlMemberInfoWithFilter.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\DellUser\\OneDrive\\OneDrive - University of the People\\Desktop\\Course 20\\Library\\Members\\ctrlMemberInfoWithFilter.cs",
+              "RelativeDocumentMoniker": "Members\\ctrlMemberInfoWithFilter.cs",
+              "ToolTip": "C:\\Users\\DellUser\\Desktop\\Course 20\\Library\\Members\\ctrlMemberInfoWithFilter.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Desktop\\Course 20\\Library\\Members\\ctrlMemberInfoWithFilter.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T07:50:29.021Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 108,
+              "Title": "clsLogger.cs",
+              "DocumentMoniker": "C:\\Users\\DellUser\\Desktop\\Course 20\\Library_Data\\clsLogger.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Desktop\\Course 20\\Library_Data\\clsLogger.cs",
+              "ToolTip": "C:\\Users\\DellUser\\Desktop\\Course 20\\Library_Data\\clsLogger.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Desktop\\Course 20\\Library_Data\\clsLogger.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBEAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T19:12:20.849Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 120,
+              "Title": "ctrlBookInfo.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\DellUser\\OneDrive\\OneDrive - University of the People\\Desktop\\Course 20\\Library\\Books\\ctrlBookInfo.cs",
+              "RelativeDocumentMoniker": "Books\\ctrlBookInfo.cs",
+              "ToolTip": "C:\\Users\\DellUser\\OneDrive\\OneDrive - University of the People\\Desktop\\Course 20\\Library\\Books\\ctrlBookInfo.cs [Design]",
+              "RelativeToolTip": "Books\\ctrlBookInfo.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T07:00:32.816Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "frmEnrollMemberInCourse.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\DellUser\\OneDrive\\OneDrive - University of the People\\Desktop\\Course 20\\Library\\Courses\\frmEnrollMemberInCourse.Designer.cs",
+              "RelativeDocumentMoniker": "Courses\\frmEnrollMemberInCourse.Designer.cs",
+              "ToolTip": "C:\\Users\\DellUser\\OneDrive\\OneDrive - University of the People\\Desktop\\Course 20\\Library\\Courses\\frmEnrollMemberInCourse.Designer.cs",
+              "RelativeToolTip": "Courses\\frmEnrollMemberInCourse.Designer.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAWwCQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T14:13:12.792Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 109,
+              "Title": "clsUserData.cs",
+              "DocumentMoniker": "C:\\Users\\DellUser\\Desktop\\Course 20\\Library_Data\\clsUserData.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Desktop\\Course 20\\Library_Data\\clsUserData.cs",
+              "ToolTip": "C:\\Users\\DellUser\\Desktop\\Course 20\\Library_Data\\clsUserData.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Desktop\\Course 20\\Library_Data\\clsUserData.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T10:27:20.745Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 110,
+              "Title": "frmAddCourse.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\DellUser\\Desktop\\Course 20\\Library\\Courses\\frmAddCourse.Designer.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Desktop\\Course 20\\Library\\Courses\\frmAddCourse.Designer.cs",
+              "ToolTip": "C:\\Users\\DellUser\\Desktop\\Course 20\\Library\\Courses\\frmAddCourse.Designer.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Desktop\\Course 20\\Library\\Courses\\frmAddCourse.Designer.cs",
+              "ViewState": "AgIAAB4BAAAAAAAAAAAMwCQBAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T13:54:27.904Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "frmAddUpdateBook.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\DellUser\\OneDrive\\OneDrive - University of the People\\Desktop\\Course 20\\Library\\Books\\frmAddUpdateBook.cs",
+              "RelativeDocumentMoniker": "Books\\frmAddUpdateBook.cs",
+              "ToolTip": "C:\\Users\\DellUser\\OneDrive\\OneDrive - University of the People\\Desktop\\Course 20\\Library\\Books\\frmAddUpdateBook.cs [Design]",
+              "RelativeToolTip": "Books\\frmAddUpdateBook.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T07:43:37.79Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 111,
+              "Title": "clsSettingsData.cs",
+              "DocumentMoniker": "C:\\Users\\DellUser\\Desktop\\Course 20\\Library_Data\\clsSettingsData.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Desktop\\Course 20\\Library_Data\\clsSettingsData.cs",
+              "ToolTip": "C:\\Users\\DellUser\\Desktop\\Course 20\\Library_Data\\clsSettingsData.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Desktop\\Course 20\\Library_Data\\clsSettingsData.cs",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAIwGkAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T17:40:32.407Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 112,
+              "Title": "clsFineData.cs",
+              "DocumentMoniker": "C:\\Users\\DellUser\\Desktop\\Course 20\\Library_Data\\clsFineData.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Desktop\\Course 20\\Library_Data\\clsFineData.cs",
+              "ToolTip": "C:\\Users\\DellUser\\Desktop\\Course 20\\Library_Data\\clsFineData.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Desktop\\Course 20\\Library_Data\\clsFineData.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAA7wCgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T19:16:48.797Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 113,
+              "Title": "clsUtil.cs",
+              "DocumentMoniker": "C:\\Users\\DellUser\\Desktop\\Course 20\\Library_Business\\clsUtil.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Desktop\\Course 20\\Library_Business\\clsUtil.cs",
+              "ToolTip": "C:\\Users\\DellUser\\Desktop\\Course 20\\Library_Business\\clsUtil.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Desktop\\Course 20\\Library_Business\\clsUtil.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAkwCoAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T19:16:46.346Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 114,
+              "Title": "clsBookData.cs",
+              "DocumentMoniker": "C:\\Users\\DellUser\\Desktop\\Course 20\\Library_Data\\clsBookData.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Desktop\\Course 20\\Library_Data\\clsBookData.cs",
+              "ToolTip": "C:\\Users\\DellUser\\Desktop\\Course 20\\Library_Data\\clsBookData.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Desktop\\Course 20\\Library_Data\\clsBookData.cs",
+              "ViewState": "AgIAABwBAAAAAAAAAAAuwD0BAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T19:16:49.639Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 121,
+              "Title": "ctrlMemberInfo.cs",
+              "DocumentMoniker": "C:\\Users\\DellUser\\OneDrive\\OneDrive - University of the People\\Desktop\\Course 20\\Library\\Members\\ctrlMemberInfo.cs",
+              "RelativeDocumentMoniker": "Members\\ctrlMemberInfo.cs",
+              "ToolTip": "C:\\Users\\DellUser\\OneDrive\\OneDrive - University of the People\\Desktop\\Course 20\\Library\\Members\\ctrlMemberInfo.cs",
+              "RelativeToolTip": "Members\\ctrlMemberInfo.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T07:26:33.279Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 122,
+              "Title": "ctrlMemberInfo.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\DellUser\\OneDrive\\OneDrive - University of the People\\Desktop\\Course 20\\Library\\Members\\ctrlMemberInfo.cs",
+              "RelativeDocumentMoniker": "Members\\ctrlMemberInfo.cs",
+              "ToolTip": "C:\\Users\\DellUser\\Desktop\\Course 20\\Library\\Members\\ctrlMemberInfo.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Desktop\\Course 20\\Library\\Members\\ctrlMemberInfo.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T07:21:59.909Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "clsUtil.cs",
+              "DocumentMoniker": "C:\\Users\\DellUser\\OneDrive\\OneDrive - University of the People\\Desktop\\Course 20\\Library\\Global Classes\\clsUtil.cs",
+              "RelativeDocumentMoniker": "Global Classes\\clsUtil.cs",
+              "ToolTip": "C:\\Users\\DellUser\\OneDrive\\OneDrive - University of the People\\Desktop\\Course 20\\Library\\Global Classes\\clsUtil.cs",
+              "RelativeToolTip": "Global Classes\\clsUtil.cs",
+              "ViewState": "AgIAAMEAAAAAAAAAAAAUwM4AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T17:44:36.251Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 115,
+              "Title": "clsFine.cs",
+              "DocumentMoniker": "C:\\Users\\DellUser\\Desktop\\Course 20\\Library_Business\\clsFine.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Desktop\\Course 20\\Library_Business\\clsFine.cs",
+              "ToolTip": "C:\\Users\\DellUser\\Desktop\\Course 20\\Library_Business\\clsFine.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Desktop\\Course 20\\Library_Business\\clsFine.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAAA2wE0AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T16:19:38.915Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 116,
+              "Title": "clsUser.cs",
+              "DocumentMoniker": "C:\\Users\\DellUser\\Desktop\\Course 20\\Library_Business\\clsUser.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Desktop\\Course 20\\Library_Business\\clsUser.cs",
+              "ToolTip": "C:\\Users\\DellUser\\Desktop\\Course 20\\Library_Business\\clsUser.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Desktop\\Course 20\\Library_Business\\clsUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T19:16:45.529Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 117,
+              "Title": "clsMembershipType.cs",
+              "DocumentMoniker": "C:\\Users\\DellUser\\Desktop\\Course 20\\Library_Business\\clsMembershipType.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Desktop\\Course 20\\Library_Business\\clsMembershipType.cs",
+              "ToolTip": "C:\\Users\\DellUser\\Desktop\\Course 20\\Library_Business\\clsMembershipType.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Desktop\\Course 20\\Library_Business\\clsMembershipType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T19:16:44.035Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "clsLoan.cs",
+              "DocumentMoniker": "C:\\Users\\muaid\\OneDrive\\Desktop\\Programming projects\\Course 20\\Library_Business\\clsLoan.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\muaid\\OneDrive\\Desktop\\Programming projects\\Course 20\\Library_Business\\clsLoan.cs",
+              "ToolTip": "C:\\Users\\muaid\\OneDrive\\Desktop\\Programming projects\\Course 20\\Library_Business\\clsLoan.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\muaid\\OneDrive\\Desktop\\Programming projects\\Course 20\\Library_Business\\clsLoan.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T08:27:51.26Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 76,
+              "Title": "clsLoanData.cs",
+              "DocumentMoniker": "C:\\Users\\muaid\\OneDrive\\Desktop\\Programming projects\\Course 20\\Library_Data\\clsLoanData.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\muaid\\OneDrive\\Desktop\\Programming projects\\Course 20\\Library_Data\\clsLoanData.cs",
+              "ToolTip": "C:\\Users\\muaid\\OneDrive\\Desktop\\Programming projects\\Course 20\\Library_Data\\clsLoanData.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\muaid\\OneDrive\\Desktop\\Programming projects\\Course 20\\Library_Data\\clsLoanData.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T08:12:13.794Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 77,
+              "Title": "clsFineData.cs",
+              "DocumentMoniker": "C:\\Users\\muaid\\OneDrive\\Desktop\\Programming projects\\Course 20\\Library_Data\\clsFineData.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\muaid\\OneDrive\\Desktop\\Programming projects\\Course 20\\Library_Data\\clsFineData.cs",
+              "ToolTip": "C:\\Users\\muaid\\OneDrive\\Desktop\\Programming projects\\Course 20\\Library_Data\\clsFineData.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\muaid\\OneDrive\\Desktop\\Programming projects\\Course 20\\Library_Data\\clsFineData.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T07:36:40.537Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 92,
+              "Title": "clsMemberData.cs",
+              "DocumentMoniker": "C:\\Users\\muaid\\OneDrive\\Desktop\\Programming projects\\Course 20\\Library_Data\\clsMemberData.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\muaid\\OneDrive\\Desktop\\Programming projects\\Course 20\\Library_Data\\clsMemberData.cs",
+              "ToolTip": "C:\\Users\\muaid\\OneDrive\\Desktop\\Programming projects\\Course 20\\Library_Data\\clsMemberData.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\muaid\\OneDrive\\Desktop\\Programming projects\\Course 20\\Library_Data\\clsMemberData.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T09:25:39.321Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 93,
+              "Title": "clsMember.cs",
+              "DocumentMoniker": "C:\\Users\\muaid\\OneDrive\\Desktop\\Programming projects\\Course 20\\Library_Business\\clsMember.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\muaid\\OneDrive\\Desktop\\Programming projects\\Course 20\\Library_Business\\clsMember.cs",
+              "ToolTip": "C:\\Users\\muaid\\OneDrive\\Desktop\\Programming projects\\Course 20\\Library_Business\\clsMember.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\muaid\\OneDrive\\Desktop\\Programming projects\\Course 20\\Library_Business\\clsMember.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T07:25:39.513Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 94,
+              "Title": "clsLogger.cs",
+              "DocumentMoniker": "C:\\Users\\muaid\\OneDrive\\Desktop\\Programming projects\\Course 20\\Library_Data\\clsLogger.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\muaid\\OneDrive\\Desktop\\Programming projects\\Course 20\\Library_Data\\clsLogger.cs",
+              "ToolTip": "C:\\Users\\muaid\\OneDrive\\Desktop\\Programming projects\\Course 20\\Library_Data\\clsLogger.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\muaid\\OneDrive\\Desktop\\Programming projects\\Course 20\\Library_Data\\clsLogger.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T07:10:06.835Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 91,
+              "Title": "clsFine.cs",
+              "DocumentMoniker": "C:\\Users\\muaid\\OneDrive\\Desktop\\Programming projects\\Course 20\\Library_Business\\clsFine.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\muaid\\OneDrive\\Desktop\\Programming projects\\Course 20\\Library_Business\\clsFine.cs",
+              "ToolTip": "C:\\Users\\muaid\\OneDrive\\Desktop\\Programming projects\\Course 20\\Library_Business\\clsFine.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\muaid\\OneDrive\\Desktop\\Programming projects\\Course 20\\Library_Business\\clsFine.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T07:45:10.238Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 95,
+              "Title": "clsAuthor.cs",
+              "DocumentMoniker": "C:\\Users\\muaid\\OneDrive\\Desktop\\Programming projects\\Course 20\\Library_Business\\clsAuthor.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\muaid\\OneDrive\\Desktop\\Programming projects\\Course 20\\Library_Business\\clsAuthor.cs",
+              "ToolTip": "C:\\Users\\muaid\\OneDrive\\Desktop\\Programming projects\\Course 20\\Library_Business\\clsAuthor.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\muaid\\OneDrive\\Desktop\\Programming projects\\Course 20\\Library_Business\\clsAuthor.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T13:33:01.769Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 96,
+              "Title": "clsBookData.cs",
+              "DocumentMoniker": "C:\\Users\\muaid\\OneDrive\\Desktop\\Programming projects\\Course 20\\Library_Data\\clsBookData.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\muaid\\OneDrive\\Desktop\\Programming projects\\Course 20\\Library_Data\\clsBookData.cs",
+              "ToolTip": "C:\\Users\\muaid\\OneDrive\\Desktop\\Programming projects\\Course 20\\Library_Data\\clsBookData.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\muaid\\OneDrive\\Desktop\\Programming projects\\Course 20\\Library_Data\\clsBookData.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T08:35:37.781Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 97,
+              "Title": "clsUser.cs",
+              "DocumentMoniker": "C:\\Users\\muaid\\OneDrive\\Desktop\\Programming projects\\Course 20\\Library_Business\\clsUser.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\muaid\\OneDrive\\Desktop\\Programming projects\\Course 20\\Library_Business\\clsUser.cs",
+              "ToolTip": "C:\\Users\\muaid\\OneDrive\\Desktop\\Programming projects\\Course 20\\Library_Business\\clsUser.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\muaid\\OneDrive\\Desktop\\Programming projects\\Course 20\\Library_Business\\clsUser.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T07:30:28.27Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 98,
+              "Title": "clsBook.cs",
+              "DocumentMoniker": "C:\\Users\\muaid\\OneDrive\\Desktop\\Programming projects\\Course 20\\Library_Business\\clsBook.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\muaid\\OneDrive\\Desktop\\Programming projects\\Course 20\\Library_Business\\clsBook.cs",
+              "ToolTip": "C:\\Users\\muaid\\OneDrive\\Desktop\\Programming projects\\Course 20\\Library_Business\\clsBook.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\muaid\\OneDrive\\Desktop\\Programming projects\\Course 20\\Library_Business\\clsBook.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T10:05:41.405Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 85,
+              "Title": "clsValidation.cs",
+              "DocumentMoniker": "C:\\Users\\muaid\\OneDrive\\Desktop\\Programming projects\\Course 19\\DVLD-Sol\\Global Classes\\clsValidation.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\muaid\\OneDrive\\Desktop\\Programming projects\\Course 19\\DVLD-Sol\\Global Classes\\clsValidation.cs",
+              "ToolTip": "C:\\Users\\muaid\\OneDrive\\Desktop\\Programming projects\\Course 19\\DVLD-Sol\\Global Classes\\clsValidation.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\muaid\\OneDrive\\Desktop\\Programming projects\\Course 19\\DVLD-Sol\\Global Classes\\clsValidation.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T07:40:46.187Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 86,
+              "Title": "frmAddUpdateMember.cs",
+              "DocumentMoniker": "C:\\Users\\muaid\\OneDrive\\Desktop\\Programming projects\\Course 20\\Library\\frmAddUpdateMember.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\muaid\\OneDrive\\Desktop\\Programming projects\\Course 20\\Library\\frmAddUpdateMember.cs",
+              "ToolTip": "C:\\Users\\muaid\\OneDrive\\Desktop\\Programming projects\\Course 20\\Library\\frmAddUpdateMember.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\muaid\\OneDrive\\Desktop\\Programming projects\\Course 20\\Library\\frmAddUpdateMember.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T10:01:27.568Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 88,
+              "Title": "clsUtil.cs",
+              "DocumentMoniker": "C:\\Users\\muaid\\OneDrive\\Desktop\\Programming projects\\Course 20\\Library\\clsUtil.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\muaid\\OneDrive\\Desktop\\Programming projects\\Course 20\\Library\\clsUtil.cs",
+              "ToolTip": "C:\\Users\\muaid\\OneDrive\\Desktop\\Programming projects\\Course 20\\Library\\clsUtil.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\muaid\\OneDrive\\Desktop\\Programming projects\\Course 20\\Library\\clsUtil.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T10:04:55.359Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 89,
+              "Title": "frmListMembershipTypes.cs",
+              "DocumentMoniker": "C:\\Users\\muaid\\OneDrive\\Desktop\\Programming projects\\Course 20\\Library\\frmListMembershipTypes.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\muaid\\OneDrive\\Desktop\\Programming projects\\Course 20\\Library\\frmListMembershipTypes.cs",
+              "ToolTip": "C:\\Users\\muaid\\OneDrive\\Desktop\\Programming projects\\Course 20\\Library\\frmListMembershipTypes.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\muaid\\OneDrive\\Desktop\\Programming projects\\Course 20\\Library\\frmListMembershipTypes.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T07:27:17.216Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 99,
+              "Title": "clsAuthorData.cs",
+              "DocumentMoniker": "C:\\Users\\muaid\\OneDrive\\Desktop\\Programming projects\\Course 20\\Library_Data\\clsAuthorData.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\muaid\\OneDrive\\Desktop\\Programming projects\\Course 20\\Library_Data\\clsAuthorData.cs",
+              "ToolTip": "C:\\Users\\muaid\\OneDrive\\Desktop\\Programming projects\\Course 20\\Library_Data\\clsAuthorData.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\muaid\\OneDrive\\Desktop\\Programming projects\\Course 20\\Library_Data\\clsAuthorData.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T13:26:55.1Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 100,
+              "Title": "clsUtil.cs",
+              "DocumentMoniker": "C:\\Users\\muaid\\OneDrive\\Desktop\\Programming projects\\Course 20\\Library_Business\\clsUtil.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\muaid\\OneDrive\\Desktop\\Programming projects\\Course 20\\Library_Business\\clsUtil.cs",
+              "ToolTip": "C:\\Users\\muaid\\OneDrive\\Desktop\\Programming projects\\Course 20\\Library_Business\\clsUtil.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\muaid\\OneDrive\\Desktop\\Programming projects\\Course 20\\Library_Business\\clsUtil.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T07:41:14.568Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 101,
+              "Title": "clsUserData.cs",
+              "DocumentMoniker": "C:\\Users\\muaid\\OneDrive\\Desktop\\Programming projects\\Course 20\\Library_Data\\clsUserData.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\muaid\\OneDrive\\Desktop\\Programming projects\\Course 20\\Library_Data\\clsUserData.cs",
+              "ToolTip": "C:\\Users\\muaid\\OneDrive\\Desktop\\Programming projects\\Course 20\\Library_Data\\clsUserData.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\muaid\\OneDrive\\Desktop\\Programming projects\\Course 20\\Library_Data\\clsUserData.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T07:19:49.464Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 102,
+              "Title": "clsMembershipTypeData.cs",
+              "DocumentMoniker": "C:\\Users\\muaid\\OneDrive\\Desktop\\Programming projects\\Course 20\\Library_Data\\clsMembershipTypeData.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\muaid\\OneDrive\\Desktop\\Programming projects\\Course 20\\Library_Data\\clsMembershipTypeData.cs",
+              "ToolTip": "C:\\Users\\muaid\\OneDrive\\Desktop\\Programming projects\\Course 20\\Library_Data\\clsMembershipTypeData.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\muaid\\OneDrive\\Desktop\\Programming projects\\Course 20\\Library_Data\\clsMembershipTypeData.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T07:15:29.737Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 103,
+              "Title": "clsMembershipType.cs",
+              "DocumentMoniker": "C:\\Users\\muaid\\OneDrive\\Desktop\\Programming projects\\Course 20\\Library_Business\\clsMembershipType.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\muaid\\OneDrive\\Desktop\\Programming projects\\Course 20\\Library_Business\\clsMembershipType.cs",
+              "ToolTip": "C:\\Users\\muaid\\OneDrive\\Desktop\\Programming projects\\Course 20\\Library_Business\\clsMembershipType.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\muaid\\OneDrive\\Desktop\\Programming projects\\Course 20\\Library_Business\\clsMembershipType.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T07:25:00.954Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 104,
+              "Title": "clsSettingsData.cs",
+              "DocumentMoniker": "C:\\Users\\muaid\\OneDrive\\Desktop\\Programming projects\\Course 20\\Library_Data\\clsSettingsData.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\muaid\\OneDrive\\Desktop\\Programming projects\\Course 20\\Library_Data\\clsSettingsData.cs",
+              "ToolTip": "C:\\Users\\muaid\\OneDrive\\Desktop\\Programming projects\\Course 20\\Library_Data\\clsSettingsData.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\muaid\\OneDrive\\Desktop\\Programming projects\\Course 20\\Library_Data\\clsSettingsData.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T07:12:12.661Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 123,
+              "Title": "ctrlBookInfoWithFilter.cs",
+              "DocumentMoniker": "C:\\Users\\DellUser\\OneDrive\\OneDrive - University of the People\\Desktop\\Course 20\\Library\\Books\\ctrlBookInfoWithFilter.cs",
+              "RelativeDocumentMoniker": "Books\\ctrlBookInfoWithFilter.cs",
+              "ToolTip": "C:\\Users\\DellUser\\OneDrive\\OneDrive - University of the People\\Desktop\\Course 20\\Library\\Books\\ctrlBookInfoWithFilter.cs",
+              "RelativeToolTip": "Books\\ctrlBookInfoWithFilter.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T08:33:54.474Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 124,
+              "Title": "ctrlBookInfoWithFilter.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\DellUser\\OneDrive\\OneDrive - University of the People\\Desktop\\Course 20\\Library\\Books\\ctrlBookInfoWithFilter.cs",
+              "RelativeDocumentMoniker": "Books\\ctrlBookInfoWithFilter.cs",
+              "ToolTip": "C:\\Users\\muaid\\OneDrive\\Desktop\\Programming projects\\Course 20\\Library\\Books\\ctrlBookInfoWithFilter.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\muaid\\OneDrive\\Desktop\\Programming projects\\Course 20\\Library\\Books\\ctrlBookInfoWithFilter.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T08:31:17.784Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 125,
+              "Title": "ctrlBookInfo.cs",
+              "DocumentMoniker": "C:\\Users\\DellUser\\OneDrive\\OneDrive - University of the People\\Desktop\\Course 20\\Library\\Books\\ctrlBookInfo.cs",
+              "RelativeDocumentMoniker": "Books\\ctrlBookInfo.cs",
+              "ToolTip": "C:\\Users\\DellUser\\OneDrive\\OneDrive - University of the People\\Desktop\\Course 20\\Library\\Books\\ctrlBookInfo.cs",
+              "RelativeToolTip": "Books\\ctrlBookInfo.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T07:04:04.322Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 78,
+              "Title": "frmMemberInfo.cs",
+              "DocumentMoniker": "C:\\Users\\DellUser\\OneDrive\\OneDrive - University of the People\\Desktop\\Course 20\\Library\\Members\\frmMemberInfo.cs",
+              "RelativeDocumentMoniker": "Members\\frmMemberInfo.cs",
+              "ToolTip": "C:\\Users\\DellUser\\OneDrive\\OneDrive - University of the People\\Desktop\\Course 20\\Library\\Members\\frmMemberInfo.cs",
+              "RelativeToolTip": "Members\\frmMemberInfo.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAnwBAAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T07:41:52.942Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 126,
+              "Title": "ctrlBookInfo.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\DellUser\\OneDrive\\OneDrive - University of the People\\Desktop\\Course 20\\Library\\Books\\ctrlBookInfo.Designer.cs",
+              "RelativeDocumentMoniker": "Books\\ctrlBookInfo.Designer.cs",
+              "ToolTip": "C:\\Users\\DellUser\\OneDrive\\OneDrive - University of the People\\Desktop\\Course 20\\Library\\Books\\ctrlBookInfo.Designer.cs",
+              "RelativeToolTip": "Books\\ctrlBookInfo.Designer.cs",
+              "ViewState": "AgIAAC4BAAAAAAAAAAAvwDYBAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T07:27:39.655Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 80,
+              "Title": "frmShowBookInfo.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\DellUser\\OneDrive\\OneDrive - University of the People\\Desktop\\Course 20\\Library\\Books\\frmShowBookInfo.cs",
+              "RelativeDocumentMoniker": "Books\\frmShowBookInfo.cs",
+              "ToolTip": "C:\\Users\\DellUser\\OneDrive\\OneDrive - University of the People\\Desktop\\Course 20\\Library\\Books\\frmShowBookInfo.cs [Design]",
+              "RelativeToolTip": "Books\\frmShowBookInfo.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T07:20:46.137Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 79,
+              "Title": "clsFormat.cs",
+              "DocumentMoniker": "C:\\Users\\DellUser\\OneDrive\\OneDrive - University of the People\\Desktop\\Course 20\\Library\\Global Classes\\clsFormat.cs",
+              "RelativeDocumentMoniker": "Global Classes\\clsFormat.cs",
+              "ToolTip": "C:\\Users\\DellUser\\OneDrive\\OneDrive - University of the People\\Desktop\\Course 20\\Library\\Global Classes\\clsFormat.cs",
+              "RelativeToolTip": "Global Classes\\clsFormat.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T07:25:39.409Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 81,
+              "Title": "clsGlobal.cs",
+              "DocumentMoniker": "C:\\Users\\DellUser\\OneDrive\\OneDrive - University of the People\\Desktop\\Course 20\\Library\\Global Classes\\clsGlobal.cs",
+              "RelativeDocumentMoniker": "Global Classes\\clsGlobal.cs",
+              "ToolTip": "C:\\Users\\DellUser\\OneDrive\\OneDrive - University of the People\\Desktop\\Course 20\\Library\\Global Classes\\clsGlobal.cs",
+              "RelativeToolTip": "Global Classes\\clsGlobal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T18:05:43.643Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 82,
+              "Title": "frmChangePassword.cs",
+              "DocumentMoniker": "C:\\Users\\DellUser\\OneDrive\\OneDrive - University of the People\\Desktop\\Course 20\\Library\\Users\\frmChangePassword.cs",
+              "RelativeDocumentMoniker": "Users\\frmChangePassword.cs",
+              "ToolTip": "C:\\Users\\DellUser\\OneDrive\\OneDrive - University of the People\\Desktop\\Course 20\\Library\\Users\\frmChangePassword.cs",
+              "RelativeToolTip": "Users\\frmChangePassword.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T10:59:33.758Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 83,
+              "Title": "frmListUsers.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\DellUser\\OneDrive\\OneDrive - University of the People\\Desktop\\Course 20\\Library\\Users\\frmListUsers.Designer.cs",
+              "RelativeDocumentMoniker": "Users\\frmListUsers.Designer.cs",
+              "ToolTip": "C:\\Users\\DellUser\\OneDrive\\OneDrive - University of the People\\Desktop\\Course 20\\Library\\Users\\frmListUsers.Designer.cs",
+              "RelativeToolTip": "Users\\frmListUsers.Designer.cs",
+              "ViewState": "AgIAAE8AAAAAAAAAAAAmwFYAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T10:15:28.484Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 84,
+              "Title": "frmUserInfo.cs",
+              "DocumentMoniker": "C:\\Users\\DellUser\\OneDrive\\OneDrive - University of the People\\Desktop\\Course 20\\Library\\Users\\frmUserInfo.cs",
+              "RelativeDocumentMoniker": "Users\\frmUserInfo.cs",
+              "ToolTip": "C:\\Users\\DellUser\\OneDrive\\OneDrive - University of the People\\Desktop\\Course 20\\Library\\Users\\frmUserInfo.cs",
+              "RelativeToolTip": "Users\\frmUserInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T10:09:45.796Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 87,
+              "Title": "frmAddUpdateMember.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\muaid\\OneDrive\\Desktop\\Programming projects\\Course 20\\Library\\frmAddUpdateMember.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\muaid\\OneDrive\\Desktop\\Programming projects\\Course 20\\Library\\frmAddUpdateMember.cs",
+              "ToolTip": "C:\\Users\\muaid\\OneDrive\\Desktop\\Programming projects\\Course 20\\Library\\frmAddUpdateMember.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\muaid\\OneDrive\\Desktop\\Programming projects\\Course 20\\Library\\frmAddUpdateMember.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T10:05:27.013Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 90,
+              "Title": "frmListMembershipTypes.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\muaid\\OneDrive\\Desktop\\Programming projects\\Course 20\\Library\\frmListMembershipTypes.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\muaid\\OneDrive\\Desktop\\Programming projects\\Course 20\\Library\\frmListMembershipTypes.cs",
+              "ToolTip": "C:\\Users\\muaid\\OneDrive\\Desktop\\Programming projects\\Course 20\\Library\\frmListMembershipTypes.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\muaid\\OneDrive\\Desktop\\Programming projects\\Course 20\\Library\\frmListMembershipTypes.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T07:27:24.363Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
